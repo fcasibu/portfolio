@@ -3,27 +3,32 @@
 exports[`Header should render and match the snapshot 1`] = `
 <div>
   <header
-    class="sc-bczRLJ"
+    class="sc-bczRLJ bPLbjs"
   >
     <nav
-      class="sc-gsnTZi"
+      class="sc-gsnTZi fxoGhW"
     >
+      <span
+        class="sc-eCYdqJ kaXuTp"
+      >
+        nevz
+      </span>
       <ul
-        class="sc-dkzDqf"
+        class="sc-dkzDqf elkwRH"
       >
         <li
-          class="sc-hKMtZM"
+          class="sc-hKMtZM ljcdV"
         >
           Projects
         </li>
         <li
-          class="sc-hKMtZM"
+          class="sc-hKMtZM ljcdV"
         >
           About
         </li>
       </ul>
       <button
-        class="sc-eCYdqJ"
+        class="sc-jSMfEi fbwkhl"
       >
         <span>
           <svg

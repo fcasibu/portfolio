@@ -11,6 +11,12 @@ describe('Header', () => {
     expect(container).toMatchSnapshot()
   })
 
+  it('should display the logo', () => {
+    render(<Header />);
+    const logo = screen.getByText(/nevz/i);
+    expect(logo).toHaveTextContent('nevz');
+  })
+
   it('should display the correct text for ListItem', () => {
     render(<ListItem itemName="TEST" />)
 
@@ -19,26 +25,26 @@ describe('Header', () => {
   })
 
   it('should display the correct listitem length', () => {
-    render(<Header />);
+    render(<Header />)
 
-    const listitem = screen.getAllByRole('listitem');
-    expect(listitem).toHaveLength(2);
+    const listitem = screen.getAllByRole('listitem')
+    expect(listitem).toHaveLength(2)
   })
 
   it('ThemeIcon should change the theme/icon on click', () => {
-    let theme = 'light';
+    let theme = 'light'
     const mockFn = jest.fn(() => {
       theme = theme === 'light' ? 'dark' : 'light'
-      rerender(<ThemeIcon theme={theme} themeChange={mockFn}/>)
-    });
-    const { rerender } = render(<ThemeIcon theme={theme} themeChange={mockFn}/>);
+      rerender(<ThemeIcon theme={theme} themeChange={mockFn} />)
+    })
+    const { rerender } = render(<ThemeIcon theme={theme} themeChange={mockFn} />)
 
-    const icon = screen.getByRole('button');
+    const icon = screen.getByRole('button')
     expect(icon).toHaveTextContent('Sun')
 
-    userEvent.click(icon);
+    userEvent.click(icon)
     expect(icon).toHaveTextContent('Moon')
 
-    expect(mockFn).toHaveBeenCalled();
+    expect(mockFn).toHaveBeenCalled()
   })
 })
