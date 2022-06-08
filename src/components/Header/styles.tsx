@@ -15,12 +15,12 @@ export const Nav = styled.nav`
   gap: 1rem;
 `
 
-export const StyledList = styled.ul`
+export const StyledLinks = styled.ul`
   display: flex;
   gap: 0.5rem;
 `
 
-export const StyledListItem = styled.li`
+export const StyledLinkItem = styled.li`
   cursor: pointer;
 
   &:hover {
@@ -37,9 +37,9 @@ export const StyledThemeIcon = styled.button`
   position: absolute;
   right: 0;
   top: 10px;
-  display:flex;
-  background: ${props => props.theme === 'light' ? '#dcdcdc' : '#525252'};
-  color: ${props => props.theme === 'light' ? '#525252' : '#dcdcdc'};
+  display: flex;
+  background: ${(props) => (props.theme === 'light' ? '#dcdcdc' : '#525252')};
+  color: ${(props) => (props.theme === 'light' ? '#525252' : '#dcdcdc')};
   border: 0;
   border-radius: 0.2rem;
   padding: 0.3rem;
@@ -47,8 +47,8 @@ export const StyledThemeIcon = styled.button`
   transition: all 200ms ease-in-out;
 
   &:hover {
-    background: ${props => props.theme === 'light' ? '#525252' : '#dcdcdc'};
-    color: ${props => props.theme === 'light' ? '#dcdcdc' : '#525252'};
+    background: ${(props) => (props.theme === 'light' ? '#525252' : '#dcdcdc')};
+    color: ${(props) => (props.theme === 'light' ? '#dcdcdc' : '#525252')};
   }
 
   > * {

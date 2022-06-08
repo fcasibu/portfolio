@@ -1,5 +1,5 @@
 import * as React from 'react'
-import { List } from './List'
+import { Links } from './Links'
 import { Nav, SiteTitle, StyledHeader } from './styles'
 import { ThemeIcon } from './ThemeIcon'
 
@@ -15,7 +15,7 @@ const Header = () => {
     <StyledHeader>
       <Nav>
         <SiteTitle>nevz</SiteTitle>
-        <List />
+        <Links />
         <ThemeIcon theme={theme} themeChange={themeChangeHandler} />
       </Nav>
     </StyledHeader>

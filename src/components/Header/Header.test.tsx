@@ -2,7 +2,7 @@ import { render, screen } from '@testing-library/react'
 import '@testing-library/jest-dom'
 import userEvent from '@testing-library/user-event'
 import Header from './Header'
-import { ListItem } from './ListItem'
+import { LinkItem } from './LinkItem'
 import { ThemeIcon } from './ThemeIcon'
 
 describe('Header', () => {
@@ -12,19 +12,19 @@ describe('Header', () => {
   })
 
   it('should display the logo', () => {
-    render(<Header />);
-    const logo = screen.getByText(/nevz/i);
-    expect(logo).toHaveTextContent('nevz');
+    render(<Header />)
+    const logo = screen.getByText(/nevz/i)
+    expect(logo).toHaveTextContent('nevz')
   })
 
-  it('should display the correct text for ListItem', () => {
-    render(<ListItem itemName="TEST" />)
+  it('should display the correct text for LinkItem', () => {
+    render(<LinkItem itemName="TEST" />)
 
     const projects = screen.getByRole('listitem')
     expect(projects).toHaveTextContent('TEST')
   })
 
-  it('should display the correct listitem length', () => {
+  it('should display the correct length of links', () => {
     render(<Header />)
 
     const listitem = screen.getAllByRole('listitem')
