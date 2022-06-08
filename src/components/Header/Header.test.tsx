@@ -35,9 +35,9 @@ describe('Header', () => {
     let theme = 'light'
     const mockFn = jest.fn(() => {
       theme = theme === 'light' ? 'dark' : 'light'
-      rerender(<ThemeIcon theme={theme} themeChange={mockFn} />)
+      rerender(<ThemeIcon theme={theme} changeTheme={mockFn} />)
     })
-    const { rerender } = render(<ThemeIcon theme={theme} themeChange={mockFn} />)
+    const { rerender } = render(<ThemeIcon theme={theme} changeTheme={mockFn} />)
 
     const icon = screen.getByRole('button')
     expect(icon).toHaveTextContent('Sun')

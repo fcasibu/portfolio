@@ -6,7 +6,7 @@ import { ThemeIcon } from './ThemeIcon'
 const Header = () => {
   const [theme, setTheme] = React.useState('light')
 
-  const themeChangeHandler = () => {
+  const changeThemeHandler = () => {
     document.documentElement.classList.toggle('dark')
     setTheme(theme === 'light' ? 'dark' : 'light')
   }
@@ -16,7 +16,7 @@ const Header = () => {
       <Nav>
         <SiteTitle>nevz</SiteTitle>
         <Links />
-        <ThemeIcon theme={theme} themeChange={themeChangeHandler} />
+        <ThemeIcon theme={theme} changeTheme={changeThemeHandler} />
       </Nav>
     </StyledHeader>
   )

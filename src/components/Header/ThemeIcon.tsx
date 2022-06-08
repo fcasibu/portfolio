@@ -3,12 +3,12 @@ import { StyledThemeIcon } from './styles'
 
 interface Props {
   theme: string
-  themeChange(): void
+  changeTheme(): void
 }
 
-export const ThemeIcon = ({ theme, themeChange }: Props) => {
+export const ThemeIcon = ({ theme, changeTheme }: Props) => {
   return (
-    <StyledThemeIcon onClick={themeChange} theme={theme}>
+    <StyledThemeIcon onClick={changeTheme} theme={theme}>
       <span>{theme === 'light' ? <FiSun title="Sun" /> : <FiMoon title="Moon" />}</span>
     </StyledThemeIcon>
   )
