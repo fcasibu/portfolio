@@ -11,8 +11,19 @@ export const GlobalStyle = createGlobalStyle`
     --theme-text-color: #fff;
   }
 
-  html {
+  body {
     background: var(--theme-background);
     color: var(--theme-text-color);
+    font-family: 'Public Sans', sans-serif;
+  }
+
+  li {
+    list-style-type: none;
+  }
+
+  *,*::before,*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
   }
 `
