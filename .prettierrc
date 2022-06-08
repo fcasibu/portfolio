@@ -5,7 +5,6 @@
   "singleQuote": true,
   "trailingComma": "none",
   "endOfLine": "lf",
-  "jsxSingleQuote": true,
+  "jsxSingleQuote": false,
   "bracketSpacing": true
-}
 }
