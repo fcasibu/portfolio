@@ -1,15 +1,15 @@
-import styled from 'styled-components'
+import styled from 'styled-components';
 
 const ButtonSizes = {
   small: '0.5rem',
   medium: '0.5rem 1rem',
   large: '1rem'
-}
+};
 
-type Sizes = 'small' | 'medium' | 'large'
+type Sizes = 'small' | 'medium' | 'large';
 
 interface Props {
-  size: Sizes
+  size: Sizes;
 }
 
 const Button = styled.button<Props>`
@@ -24,6 +24,6 @@ const Button = styled.button<Props>`
   &:hover {
     opacity: 0.8;
   }
-`
+`;
 
-export default Button
+export default Button;
