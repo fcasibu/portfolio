@@ -44,7 +44,7 @@ export const StyledThemeIcon = styled.button`
   border-radius: 0.2rem;
   padding: 0.3rem;
   cursor: pointer;
-  transition: all 200ms ease-in-out;
+  transition: all 100ms ease-in-out;
 
   &:hover {
     background: ${(props) => (props.theme === 'light' ? '#525252' : '#dcdcdc')};
