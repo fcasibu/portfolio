@@ -104,7 +104,7 @@ exports[`App should render the whole app and match te snapshot 1`] = `
     </nav>
   </header>
   <div
-    class="sc-dIouRR gzciLa"
+    class="sc-idiyUo dcdsTq"
   >
     <div
       class="sc-iBkjds edgefd"
@@ -194,11 +194,9 @@ exports[`App should render the whole app and match te snapshot 1`] = `
             </li>
           </ul>
           <ul
-            class="sc-hAZoDl sc-bjUoiL laIFgW ceZfNj"
+            class="sc-hAZoDl sc-bjUoiL laIFgW fWmSox"
           >
-            <li
-              class="sc-idiyUo"
-            >
+            <li>
               <a
                 href="https://nevz9.github.io/battleship/"
                 rel="noreferrer noopener"
@@ -226,9 +224,7 @@ exports[`App should render the whole app and match te snapshot 1`] = `
                 </svg>
               </a>
             </li>
-            <li
-              class="sc-idiyUo"
-            >
+            <li>
               <a
                 href="https://github.com/nevz9/battleship"
                 rel="noreferrer noopener"
@@ -305,11 +301,9 @@ exports[`App should render the whole app and match te snapshot 1`] = `
             </li>
           </ul>
           <ul
-            class="sc-hAZoDl sc-bjUoiL laIFgW ceZfNj"
+            class="sc-hAZoDl sc-bjUoiL laIFgW fWmSox"
           >
-            <li
-              class="sc-idiyUo"
-            >
+            <li>
               <a
                 href="https://nevz9.github.io/fakegram-react/"
                 rel="noreferrer noopener"
@@ -337,9 +331,7 @@ exports[`App should render the whole app and match te snapshot 1`] = `
                 </svg>
               </a>
             </li>
-            <li
-              class="sc-idiyUo"
-            >
+            <li>
               <a
                 href="https://github.com/nevz9/fakegram-react"
                 rel="noreferrer noopener"
@@ -425,11 +417,9 @@ exports[`App should render the whole app and match te snapshot 1`] = `
             </li>
           </ul>
           <ul
-            class="sc-hAZoDl sc-bjUoiL laIFgW ceZfNj"
+            class="sc-hAZoDl sc-bjUoiL laIFgW fWmSox"
           >
-            <li
-              class="sc-idiyUo"
-            >
+            <li>
               <a
                 href="https://photo-tagging-app-852b2.web.app/#/"
                 rel="noreferrer noopener"
@@ -457,9 +447,7 @@ exports[`App should render the whole app and match te snapshot 1`] = `
                 </svg>
               </a>
             </li>
-            <li
-              class="sc-idiyUo"
-            >
+            <li>
               <a
                 href="https://github.com/nevz9/photo-tagging-app"
                 rel="noreferrer noopener"
@@ -536,11 +524,9 @@ exports[`App should render the whole app and match te snapshot 1`] = `
             </li>
           </ul>
           <ul
-            class="sc-hAZoDl sc-bjUoiL laIFgW ceZfNj"
+            class="sc-hAZoDl sc-bjUoiL laIFgW fWmSox"
           >
-            <li
-              class="sc-idiyUo"
-            >
+            <li>
               <a
                 href="https://nevz9.github.io/shopping-cart/"
                 rel="noreferrer noopener"
@@ -568,9 +554,7 @@ exports[`App should render the whole app and match te snapshot 1`] = `
                 </svg>
               </a>
             </li>
-            <li
-              class="sc-idiyUo"
-            >
+            <li>
               <a
                 href="https://github.com/nevz9/shopping-cart"
                 rel="noreferrer noopener"
@@ -602,7 +586,7 @@ exports[`App should render the whole app and match te snapshot 1`] = `
     </div>
   </div>
   <a
-    class="sc-hHLeRK diKLQw"
+    class="sc-dIouRR geQLIX"
     href="https://github.com/nevz9/portfolio/"
     rel="noreferrer noopener"
     target="_blank"
