@@ -1,32 +1,42 @@
-import { Icons } from './Icons'
-import { FiEye, FiCode } from 'react-icons/fi'
-import { LinksIcons, ProjectDescription, ProjectImage, StyledProjectCard } from './styles'
+import { Icons } from './Icons';
+import { FiEye, FiCode } from 'react-icons/fi';
+import {
+  LinksIcons,
+  ProjectDescription,
+  ProjectImage,
+  ProjectImageWrapper,
+  StyledProjectCard
+} from './styles';
 
 interface Data {
-  title: string
-  description: string
-  image: string
-  technologies: NodeRequire[]
+  title: string;
+  description: string;
+  repo: string;
+  live: string;
+  image: string;
+  technologies: NodeRequire[];
 }
 
 interface Props {
-  data: Data
+  data: Data;
 }
 
 export const ProjectCard = ({ data }: Props) => {
-  console.log(data.image)
-  return <StyledProjectCard>
-    <ProjectImage src={data.image}/>
-   <ProjectDescription>{data.description}</ProjectDescription>
-    <Icons technologies={data.technologies}/>
+  return (
+    <StyledProjectCard>
+      <ProjectImageWrapper title={data.title}>
+        <ProjectImage src={data.image} />
+      </ProjectImageWrapper>
+      <ProjectDescription>{data.description}</ProjectDescription>
+      <Icons technologies={data.technologies} />
       <LinksIcons>
-        <a>
+        <a href={data.live} target="_blank" rel="noreferrer noopener">
           <FiEye />
         </a>
-        <a>
+        <a href={data.repo} target="_blank" rel="noreferrer noopener">
           <FiCode />
         </a>
       </LinksIcons>
-
-  </StyledProjectCard>
-}
+    </StyledProjectCard>
+  );
+};

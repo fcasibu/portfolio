@@ -1,32 +1,16 @@
-import { Icon, LinksIcons, StyledIcons } from './styles'
-import { FiEye, FiCode } from 'react-icons/fi'
+import { Icon } from './Icon';
+import { StyledIcons } from './styles';
 
 interface Props {
-  technologies: NodeRequire[]
-}
-
-const renderIcons = (technologies: any[]) => {
-  const list = []
-
-  for (let i = 0; i < technologies.length; i++) {
-    list.push(<Icon src={technologies[i].default} />)
-  }
-
-  return list
+  technologies: any[];
 }
 
 export const Icons = ({ technologies }: Props) => {
   return (
     <StyledIcons>
-      {renderIcons(technologies)}
-      <LinksIcons>
-        <a>
-          <FiEye />
-        </a>
-        <a>
-          <FiCode />
-        </a>
-      </LinksIcons>
+      {technologies.map((el, index) => (
+        <Icon image={el.default} key={index} />
+      ))}
     </StyledIcons>
-  )
-}
+  );
+};
