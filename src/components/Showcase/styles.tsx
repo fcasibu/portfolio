@@ -3,10 +3,10 @@ import styled from 'styled-components'
 export const ShowcaseWrapper = styled.div`
   display: flex;
   flex-direction: column;
-  justify-content: center;
   align-items: center;
   text-align: center;
-  min-height: 80vh;
+  margin-top: 7rem;
+  min-height: 90vh;
 `
 
 export const ShowcaseTitle = styled.h1`
