@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/static/js/main.06b4eccd.js",
+    "static/media/photo-tagging.png": "/static/media/photo-tagging.a913b705715ee363ba3c.png",
+    "static/media/shopping-cart.png": "/static/media/shopping-cart.b5fa2ed5b4da22824385.png",
+    "static/media/fakegram.png": "/static/media/fakegram.1cb15ee67ee7e4b2f7bf.png",
+    "static/media/battleship.png": "/static/media/battleship.92937d91957736735e3f.png",
+    "static/media/firebase.svg": "/static/media/firebase.7765dfa84fc7de53bebbfdd8a4c9e59d.svg",
+    "static/media/jest.svg": "/static/media/jest.6d3e76338397932f41184c1ba7771ab9.svg",
+    "static/media/react.svg": "/static/media/react.45e05858175d1edbb57051533007343c.svg",
+    "static/media/javascript.svg": "/static/media/javascript.9a071f2801f9f92598764d48c7225305.svg",
+    "index.html": "/index.html",
+    "static/media/css.svg": "/static/media/css.5fcd7f5683afc0fc6d0186a083262016.svg",
+    "static/media/html.svg": "/static/media/html.ca0db580ffd74f086f2dc2a71dacd660.svg",
+    "main.06b4eccd.js.map": "/static/js/main.06b4eccd.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.06b4eccd.js"
+  ]
+}
