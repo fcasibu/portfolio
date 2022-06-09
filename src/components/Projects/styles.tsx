@@ -1,9 +1,17 @@
 import styled from 'styled-components';
 
-export const ProjectsWrapper = styled.div``;
+export const ProjectsWrapper = styled.div`
+  @media (max-width: 640px) {
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    padding: 0 1rem;
+  }
+`;
 
 export const ProjectsTitle = styled.h2`
   margin-bottom: 1rem;
+  text-align: left;
 `;
 
 export const StyledProjectsList = styled.div`
@@ -12,6 +20,10 @@ export const StyledProjectsList = styled.div`
   grid-column-gap: 7rem;
   grid-row-gap: 2rem;
   justify-content: center;
+
+  @media (max-width: 640px) {
+    grid-template-columns: 1fr;
+  }
 `;
 
 export const StyledProjectCard = styled.div`
@@ -21,6 +33,15 @@ export const StyledProjectCard = styled.div`
   display: flex;
   flex-direction: column;
   gap: 1rem;
+
+  @media (max-width: 640px) {
+    width: 350px;
+    height: 330px;
+  }
+
+  @media (max-width: 375px) {
+    width: 100%;
+  }
 `;
 
 export const ProjectDescription = styled.p`
@@ -52,6 +73,11 @@ export const ProjectImageWrapper = styled.div`
     opacity: 1;
     visibility: visible;
   }
+
+  @media (max-width: 640px) {
+    width: 100%;
+  }
+
 `;
 
 export const ProjectImage = styled.img`
@@ -60,6 +86,12 @@ export const ProjectImage = styled.img`
   height: 150px;
   width: 250px;
   border-radius: 0.5rem;
+
+  @media (max-width: 640px) {
+    width: 100%;
+    height:200px;
+  }
+
 `;
 
 export const StyledIcons = styled.ul`
@@ -74,12 +106,22 @@ export const StyledIcon = styled.li``;
 export const IconImage = styled.img`
   width: 25px;
   height: 25px;
+
+  @media (max-width: 640px) {
+    width: 35px;
+    height:35px;
+  }
+
 `;
 
 export const StyledProjectLinks = styled(StyledIcons)`
   right: 0;
   > * {
     font-size: 1.5rem;
+
+    @media (max-width: 640px) {
+      font-size: 2rem;
+    }
   }
 `;
 
