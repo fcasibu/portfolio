@@ -1,0 +1,598 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App should render the whole app and match te snapshot 1`] = `
+<div>
+  <header
+    class="sc-bczRLJ eGILSf"
+  >
+    <nav
+      class="sc-gsnTZi cwkucC"
+    >
+      <span
+        class="sc-eCYdqJ kaXuTp"
+      >
+        nevz
+      </span>
+      <ul
+        class="sc-dkzDqf elkwRH"
+      >
+        <li
+          class="sc-hKMtZM ljcdV"
+        >
+          Projects
+        </li>
+        <li
+          class="sc-hKMtZM ljcdV"
+        >
+          About
+        </li>
+      </ul>
+      <button
+        class="sc-jSMfEi isVGqD"
+      >
+        <span>
+          <svg
+            fill="none"
+            height="1em"
+            stroke="currentColor"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            viewBox="0 0 24 24"
+            width="1em"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <title>
+              Sun
+            </title>
+            <circle
+              cx="12"
+              cy="12"
+              r="5"
+            />
+            <line
+              x1="12"
+              x2="12"
+              y1="1"
+              y2="3"
+            />
+            <line
+              x1="12"
+              x2="12"
+              y1="21"
+              y2="23"
+            />
+            <line
+              x1="4.22"
+              x2="5.64"
+              y1="4.22"
+              y2="5.64"
+            />
+            <line
+              x1="18.36"
+              x2="19.78"
+              y1="18.36"
+              y2="19.78"
+            />
+            <line
+              x1="1"
+              x2="3"
+              y1="12"
+              y2="12"
+            />
+            <line
+              x1="21"
+              x2="23"
+              y1="12"
+              y2="12"
+            />
+            <line
+              x1="4.22"
+              x2="5.64"
+              y1="19.78"
+              y2="18.36"
+            />
+            <line
+              x1="18.36"
+              x2="19.78"
+              y1="5.64"
+              y2="4.22"
+            />
+          </svg>
+        </span>
+      </button>
+    </nav>
+  </header>
+  <div
+    class="sc-idiyUo dcdsTq"
+  >
+    <div
+      class="sc-iBkjds edgefd"
+    >
+      <h1
+        class="sc-ftvSup eFeZbx"
+      >
+        Hi, I'm Francis
+      </h1>
+      <p
+        class="sc-papXJ hmECiM"
+      >
+        I'm a full stack web developer
+      </p>
+      <button
+        class="sc-gKXOVf jzToMZ"
+      >
+        View my projects
+      </button>
+    </div>
+    <div
+      class="sc-jqUVSM"
+    >
+      <h2
+        class="sc-kDDrLX hlUDzC"
+      >
+        Projects
+      </h2>
+      <div
+        class="sc-iqcoie ePtYhm"
+      >
+        <div
+          class="sc-crXcEl iQNzLE"
+        >
+          <div
+            class="sc-breuTD kAyvJB"
+            title="Battleship"
+          >
+            <img
+              class="sc-ksZaOG bZrKHN"
+              src="test.png"
+            />
+          </div>
+          <p
+            class="sc-evZas jFFfFl"
+          >
+            Single player battleship game, where the player and computer battles out who sinks the most ships first
+          </p>
+          <ul
+            class="sc-hAZoDl laIFgW"
+          >
+            <li
+              class="sc-fnykZs"
+            >
+              <img
+                alt=""
+                class="sc-fEOsli fbpjzo"
+                src="html.svg"
+              />
+            </li>
+            <li
+              class="sc-fnykZs"
+            >
+              <img
+                alt=""
+                class="sc-fEOsli fbpjzo"
+                src="css.svg"
+              />
+            </li>
+            <li
+              class="sc-fnykZs"
+            >
+              <img
+                alt=""
+                class="sc-fEOsli fbpjzo"
+                src="javascript.svg"
+              />
+            </li>
+            <li
+              class="sc-fnykZs"
+            >
+              <img
+                alt=""
+                class="sc-fEOsli fbpjzo"
+                src="jest.svg"
+              />
+            </li>
+          </ul>
+          <ul
+            class="sc-hAZoDl sc-bjUoiL laIFgW ceZfNj"
+          >
+            <a
+              href="https://nevz9.github.io/battleship/"
+              rel="noreferrer noopener"
+              target="_blank"
+            >
+              <svg
+                fill="none"
+                height="1em"
+                stroke="currentColor"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                viewBox="0 0 24 24"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"
+                />
+                <circle
+                  cx="12"
+                  cy="12"
+                  r="3"
+                />
+              </svg>
+            </a>
+            <a
+              href="https://github.com/nevz9/battleship"
+              rel="noreferrer noopener"
+              target="_blank"
+            >
+              <svg
+                fill="none"
+                height="1em"
+                stroke="currentColor"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                viewBox="0 0 24 24"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <polyline
+                  points="16 18 22 12 16 6"
+                />
+                <polyline
+                  points="8 6 2 12 8 18"
+                />
+              </svg>
+            </a>
+          </ul>
+        </div>
+        <div
+          class="sc-crXcEl iQNzLE"
+        >
+          <div
+            class="sc-breuTD ljVDch"
+            title="Fakegram"
+          >
+            <img
+              class="sc-ksZaOG bZrKHN"
+              src="fakegram.png"
+            />
+          </div>
+          <p
+            class="sc-evZas jFFfFl"
+          >
+            Instagram clone, with features including posting, following, liking, etc
+          </p>
+          <ul
+            class="sc-hAZoDl laIFgW"
+          >
+            <li
+              class="sc-fnykZs"
+            >
+              <img
+                alt=""
+                class="sc-fEOsli fbpjzo"
+                src="react.svg"
+              />
+            </li>
+            <li
+              class="sc-fnykZs"
+            >
+              <img
+                alt=""
+                class="sc-fEOsli fbpjzo"
+                src="firebase.svg"
+              />
+            </li>
+            <li
+              class="sc-fnykZs"
+            >
+              <img
+                alt=""
+                class="sc-fEOsli fbpjzo"
+                src="css.svg"
+              />
+            </li>
+          </ul>
+          <ul
+            class="sc-hAZoDl sc-bjUoiL laIFgW ceZfNj"
+          >
+            <a
+              href="https://nevz9.github.io/fakegram-react/"
+              rel="noreferrer noopener"
+              target="_blank"
+            >
+              <svg
+                fill="none"
+                height="1em"
+                stroke="currentColor"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                viewBox="0 0 24 24"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"
+                />
+                <circle
+                  cx="12"
+                  cy="12"
+                  r="3"
+                />
+              </svg>
+            </a>
+            <a
+              href="https://github.com/nevz9/fakegram-react"
+              rel="noreferrer noopener"
+              target="_blank"
+            >
+              <svg
+                fill="none"
+                height="1em"
+                stroke="currentColor"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                viewBox="0 0 24 24"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <polyline
+                  points="16 18 22 12 16 6"
+                />
+                <polyline
+                  points="8 6 2 12 8 18"
+                />
+              </svg>
+            </a>
+          </ul>
+        </div>
+        <div
+          class="sc-crXcEl iQNzLE"
+        >
+          <div
+            class="sc-breuTD bRwqVa"
+            title="Photo Tagging Application"
+          >
+            <img
+              class="sc-ksZaOG bZrKHN"
+              src="photo-tagging.png"
+            />
+          </div>
+          <p
+            class="sc-evZas jFFfFl"
+          >
+            Photo Tagging Application. Three maps. Three Characters. Find all three as fast as you can!
+          </p>
+          <ul
+            class="sc-hAZoDl laIFgW"
+          >
+            <li
+              class="sc-fnykZs"
+            >
+              <img
+                alt=""
+                class="sc-fEOsli fbpjzo"
+                src="react.svg"
+              />
+            </li>
+            <li
+              class="sc-fnykZs"
+            >
+              <img
+                alt=""
+                class="sc-fEOsli fbpjzo"
+                src="firebase.svg"
+              />
+            </li>
+            <li
+              class="sc-fnykZs"
+            >
+              <img
+                alt=""
+                class="sc-fEOsli fbpjzo"
+                src="jest.svg"
+              />
+            </li>
+            <li
+              class="sc-fnykZs"
+            >
+              <img
+                alt=""
+                class="sc-fEOsli fbpjzo"
+                src="css.svg"
+              />
+            </li>
+          </ul>
+          <ul
+            class="sc-hAZoDl sc-bjUoiL laIFgW ceZfNj"
+          >
+            <a
+              href="https://photo-tagging-app-852b2.web.app/#/"
+              rel="noreferrer noopener"
+              target="_blank"
+            >
+              <svg
+                fill="none"
+                height="1em"
+                stroke="currentColor"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                viewBox="0 0 24 24"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"
+                />
+                <circle
+                  cx="12"
+                  cy="12"
+                  r="3"
+                />
+              </svg>
+            </a>
+            <a
+              href="https://github.com/nevz9/photo-tagging-app"
+              rel="noreferrer noopener"
+              target="_blank"
+            >
+              <svg
+                fill="none"
+                height="1em"
+                stroke="currentColor"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                viewBox="0 0 24 24"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <polyline
+                  points="16 18 22 12 16 6"
+                />
+                <polyline
+                  points="8 6 2 12 8 18"
+                />
+              </svg>
+            </a>
+          </ul>
+        </div>
+        <div
+          class="sc-crXcEl iQNzLE"
+        >
+          <div
+            class="sc-breuTD bIlmzl"
+            title="Shopping Cart"
+          >
+            <img
+              class="sc-ksZaOG bZrKHN"
+              src="shopping-cart.png"
+            />
+          </div>
+          <p
+            class="sc-evZas jFFfFl"
+          >
+            Shopping Cart. First time implementing React Router and imitating the logic of shoping and adding to a cart
+          </p>
+          <ul
+            class="sc-hAZoDl laIFgW"
+          >
+            <li
+              class="sc-fnykZs"
+            >
+              <img
+                alt=""
+                class="sc-fEOsli fbpjzo"
+                src="react.svg"
+              />
+            </li>
+            <li
+              class="sc-fnykZs"
+            >
+              <img
+                alt=""
+                class="sc-fEOsli fbpjzo"
+                src="css.svg"
+              />
+            </li>
+            <li
+              class="sc-fnykZs"
+            >
+              <img
+                alt=""
+                class="sc-fEOsli fbpjzo"
+                src="jest.svg"
+              />
+            </li>
+          </ul>
+          <ul
+            class="sc-hAZoDl sc-bjUoiL laIFgW ceZfNj"
+          >
+            <a
+              href="https://nevz9.github.io/shopping-cart/"
+              rel="noreferrer noopener"
+              target="_blank"
+            >
+              <svg
+                fill="none"
+                height="1em"
+                stroke="currentColor"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                viewBox="0 0 24 24"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"
+                />
+                <circle
+                  cx="12"
+                  cy="12"
+                  r="3"
+                />
+              </svg>
+            </a>
+            <a
+              href="https://github.com/nevz9/shopping-cart"
+              rel="noreferrer noopener"
+              target="_blank"
+            >
+              <svg
+                fill="none"
+                height="1em"
+                stroke="currentColor"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                viewBox="0 0 24 24"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <polyline
+                  points="16 18 22 12 16 6"
+                />
+                <polyline
+                  points="8 6 2 12 8 18"
+                />
+              </svg>
+            </a>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <a
+    class="sc-dIouRR geQLIX"
+    href="https://github.com/nevz9/portfolio/"
+    rel="noreferrer noopener"
+    target="_blank"
+  >
+    <svg
+      fill="none"
+      height="1em"
+      stroke="currentColor"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      stroke-width="2"
+      viewBox="0 0 24 24"
+      width="1em"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <polyline
+        points="16 18 22 12 16 6"
+      />
+      <polyline
+        points="8 6 2 12 8 18"
+      />
+    </svg>
+  </a>
+</div>
+`;

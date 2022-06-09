@@ -1,4 +1,4 @@
-import { createGlobalStyle } from 'styled-components'
+import { createGlobalStyle } from 'styled-components';
 
 export const GlobalStyle = createGlobalStyle`
   :root {
@@ -17,6 +17,10 @@ export const GlobalStyle = createGlobalStyle`
     font-family: 'Public Sans', sans-serif;
   }
 
+  a {
+    color: var(--theme-text-color);
+  }
+
   li {
     list-style-type: none;
   }
@@ -26,4 +30,4 @@ export const GlobalStyle = createGlobalStyle`
     padding: 0;
     box-sizing: border-box;
   }
-`
+`;
