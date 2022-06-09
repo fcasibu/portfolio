@@ -13,6 +13,7 @@ export const StyledHeader = styled.header`
 export const Nav = styled.nav`
   display: flex;
   gap: 1rem;
+  align-items: flex-end;
 `
 
 export const StyledLinks = styled.ul`
@@ -36,7 +37,6 @@ export const SiteTitle = styled.span`
 export const StyledThemeIcon = styled.button`
   position: absolute;
   right: 0;
-  top: 10px;
   display: flex;
   background: ${(props) => (props.theme === 'light' ? '#dcdcdc' : '#525252')};
   color: ${(props) => (props.theme === 'light' ? '#525252' : '#dcdcdc')};
