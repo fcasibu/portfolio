@@ -15,7 +15,7 @@ export const projects = [
   },
   {
     title: 'Fakegram',
-    description: 'Instagram clone, with features including posting, following, liking, etc',
+    description: 'Instagram clone, with features including posting, following, liking, authentication, etc',
     repo: 'https://github.com/nevz9/fakegram-react',
     live: 'https://nevz9.github.io/fakegram-react/',
     image: require('../assets/fakegram.png'),
