@@ -10,12 +10,14 @@ export const projects = [
       require('../assets/html.svg'),
       require('../assets/css.svg'),
       require('../assets/javascript.svg'),
-      require('../assets/jest.svg')
+      require('../assets/jest.svg'),
+      require('../assets/webpack.svg')
     ]
   },
   {
     title: 'Fakegram',
-    description: 'Instagram clone, with features including posting, following, liking, authentication, etc',
+    description:
+      'Instagram clone, with features including posting, following, liking, authentication, etc',
     repo: 'https://github.com/nevz9/fakegram-react',
     live: 'https://nevz9.github.io/fakegram-react/',
     image: require('../assets/fakegram.png'),
@@ -51,5 +53,19 @@ export const projects = [
       require('../assets/css.svg'),
       require('../assets/jest.svg')
     ]
-  }
+  },
+  {
+    title: 'Todo App',
+    description:
+      'Todo App. First big project to deal with CRUD operations and using local storage for data persistence',
+    repo: 'https://github.com/nevz9/todo-list',
+    live: 'https://nevz9.github.io/todo-list/',
+    image: require('../assets/todo.png'),
+    technologies: [
+      require('../assets/html.svg'),
+      require('../assets/css.svg'),
+      require('../assets/javascript.svg'),
+      require('../assets/webpack.svg')
+    ]
+  },
 ];
