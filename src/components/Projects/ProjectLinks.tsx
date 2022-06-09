@@ -1,5 +1,6 @@
 import { FiCode, FiEye } from 'react-icons/fi';
-import { ProjectLink, StyledProjectLinks } from './styles';
+import { ProjectLink } from './ProjectLink';
+import { StyledProjectLinks } from './styles';
 
 interface Props {
   repo: string;
@@ -9,16 +10,8 @@ interface Props {
 export const ProjectLinks = ({ repo, live }: Props) => {
   return (
     <StyledProjectLinks>
-      <ProjectLink>
-        <a href={live} target="_blank" rel="noreferrer noopener">
-          <FiEye />
-        </a>
-      </ProjectLink>
-      <ProjectLink>
-        <a href={repo} target="_blank" rel="noreferrer noopener">
-          <FiCode />
-        </a>
-      </ProjectLink>
+      <ProjectLink link={live}><FiEye /></ProjectLink>
+      <ProjectLink link={repo}><FiCode /></ProjectLink>
     </StyledProjectLinks>
   );
 };

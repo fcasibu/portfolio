@@ -71,11 +71,9 @@ exports[`Projects should render and match the snapshot 1`] = `
           </li>
         </ul>
         <ul
-          class="sc-iBkjds sc-jqUVSM kRHReX iBZUSe"
+          class="sc-iBkjds sc-jqUVSM kRHReX cevLTQ"
         >
-          <li
-            class="sc-kDDrLX"
-          >
+          <li>
             <a
               href="https://nevz9.github.io/battleship/"
               rel="noreferrer noopener"
@@ -103,9 +101,7 @@ exports[`Projects should render and match the snapshot 1`] = `
               </svg>
             </a>
           </li>
-          <li
-            class="sc-kDDrLX"
-          >
+          <li>
             <a
               href="https://github.com/nevz9/battleship"
               rel="noreferrer noopener"
@@ -182,11 +178,9 @@ exports[`Projects should render and match the snapshot 1`] = `
           </li>
         </ul>
         <ul
-          class="sc-iBkjds sc-jqUVSM kRHReX iBZUSe"
+          class="sc-iBkjds sc-jqUVSM kRHReX cevLTQ"
         >
-          <li
-            class="sc-kDDrLX"
-          >
+          <li>
             <a
               href="https://nevz9.github.io/fakegram-react/"
               rel="noreferrer noopener"
@@ -214,9 +208,7 @@ exports[`Projects should render and match the snapshot 1`] = `
               </svg>
             </a>
           </li>
-          <li
-            class="sc-kDDrLX"
-          >
+          <li>
             <a
               href="https://github.com/nevz9/fakegram-react"
               rel="noreferrer noopener"
@@ -302,11 +294,9 @@ exports[`Projects should render and match the snapshot 1`] = `
           </li>
         </ul>
         <ul
-          class="sc-iBkjds sc-jqUVSM kRHReX iBZUSe"
+          class="sc-iBkjds sc-jqUVSM kRHReX cevLTQ"
         >
-          <li
-            class="sc-kDDrLX"
-          >
+          <li>
             <a
               href="https://photo-tagging-app-852b2.web.app/#/"
               rel="noreferrer noopener"
@@ -334,9 +324,7 @@ exports[`Projects should render and match the snapshot 1`] = `
               </svg>
             </a>
           </li>
-          <li
-            class="sc-kDDrLX"
-          >
+          <li>
             <a
               href="https://github.com/nevz9/photo-tagging-app"
               rel="noreferrer noopener"
@@ -413,11 +401,9 @@ exports[`Projects should render and match the snapshot 1`] = `
           </li>
         </ul>
         <ul
-          class="sc-iBkjds sc-jqUVSM kRHReX iBZUSe"
+          class="sc-iBkjds sc-jqUVSM kRHReX cevLTQ"
         >
-          <li
-            class="sc-kDDrLX"
-          >
+          <li>
             <a
               href="https://nevz9.github.io/shopping-cart/"
               rel="noreferrer noopener"
@@ -445,9 +431,7 @@ exports[`Projects should render and match the snapshot 1`] = `
               </svg>
             </a>
           </li>
-          <li
-            class="sc-kDDrLX"
-          >
+          <li>
             <a
               href="https://github.com/nevz9/shopping-cart"
               rel="noreferrer noopener"
