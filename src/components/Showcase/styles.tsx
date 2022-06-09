@@ -6,7 +6,7 @@ export const ShowcaseWrapper = styled.div`
   align-items: center;
   text-align: center;
   margin-top: 7rem;
-  min-height: 90vh;
+  min-height: 70vh;
 `
 
 export const ShowcaseTitle = styled.h1`
