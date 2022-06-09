@@ -1,9 +1,10 @@
-import { StyledLinkItem } from './styles'
+import { StyledLinkItem } from './styles';
 
 interface Props {
-  itemName: string
+  itemName: string;
+  scrollToProjects?: () => void;
 }
 
-export const LinkItem = ({ itemName }: Props) => {
-  return <StyledLinkItem>{itemName}</StyledLinkItem>
-}
+export const LinkItem = ({ itemName, scrollToProjects }: Props) => {
+  return <StyledLinkItem onClick={scrollToProjects}>{itemName}</StyledLinkItem>;
+};

@@ -1,4 +1,4 @@
-import styled from 'styled-components'
+import styled from 'styled-components';
 
 export const StyledHeader = styled.header`
   position: sticky;
@@ -8,18 +8,19 @@ export const StyledHeader = styled.header`
   margin: 0 auto;
   padding: 1rem;
   backdrop-filter: blur(8px);
-`
+  z-index: 10000;
+`;
 
 export const Nav = styled.nav`
   display: flex;
   gap: 1rem;
   align-items: flex-end;
-`
+`;
 
 export const StyledLinks = styled.ul`
   display: flex;
   gap: 0.5rem;
-`
+`;
 
 export const StyledLinkItem = styled.li`
   cursor: pointer;
@@ -27,12 +28,12 @@ export const StyledLinkItem = styled.li`
   &:hover {
     opacity: 0.7;
   }
-`
+`;
 
 export const SiteTitle = styled.span`
   font-family: 'Playfair Display', serif;
   font-size: 1.1rem;
-`
+`;
 
 export const StyledThemeIcon = styled.button`
   position: absolute;
@@ -55,4 +56,4 @@ export const StyledThemeIcon = styled.button`
     width: 16px;
     height: 16px;
   }
-`
+`;
