@@ -22,7 +22,7 @@ exports[`Projects should render and match the snapshot 1`] = `
         >
           <img
             class="sc-gKXOVf cgdRdp"
-            src="test.png"
+            src="battleship.png"
           />
         </div>
         <p
@@ -73,56 +73,64 @@ exports[`Projects should render and match the snapshot 1`] = `
         <ul
           class="sc-iBkjds sc-jqUVSM kRHReX iBZUSe"
         >
-          <a
-            href="https://nevz9.github.io/battleship/"
-            rel="noreferrer noopener"
-            target="_blank"
+          <li
+            class="sc-kDDrLX"
           >
-            <svg
-              fill="none"
-              height="1em"
-              stroke="currentColor"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              stroke-width="2"
-              viewBox="0 0 24 24"
-              width="1em"
-              xmlns="http://www.w3.org/2000/svg"
+            <a
+              href="https://nevz9.github.io/battleship/"
+              rel="noreferrer noopener"
+              target="_blank"
             >
-              <path
-                d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"
-              />
-              <circle
-                cx="12"
-                cy="12"
-                r="3"
-              />
-            </svg>
-          </a>
-          <a
-            href="https://github.com/nevz9/battleship"
-            rel="noreferrer noopener"
-            target="_blank"
+              <svg
+                fill="none"
+                height="1em"
+                stroke="currentColor"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                viewBox="0 0 24 24"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"
+                />
+                <circle
+                  cx="12"
+                  cy="12"
+                  r="3"
+                />
+              </svg>
+            </a>
+          </li>
+          <li
+            class="sc-kDDrLX"
           >
-            <svg
-              fill="none"
-              height="1em"
-              stroke="currentColor"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              stroke-width="2"
-              viewBox="0 0 24 24"
-              width="1em"
-              xmlns="http://www.w3.org/2000/svg"
+            <a
+              href="https://github.com/nevz9/battleship"
+              rel="noreferrer noopener"
+              target="_blank"
             >
-              <polyline
-                points="16 18 22 12 16 6"
-              />
-              <polyline
-                points="8 6 2 12 8 18"
-              />
-            </svg>
-          </a>
+              <svg
+                fill="none"
+                height="1em"
+                stroke="currentColor"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                viewBox="0 0 24 24"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <polyline
+                  points="16 18 22 12 16 6"
+                />
+                <polyline
+                  points="8 6 2 12 8 18"
+                />
+              </svg>
+            </a>
+          </li>
         </ul>
       </div>
       <div
@@ -140,7 +148,7 @@ exports[`Projects should render and match the snapshot 1`] = `
         <p
           class="sc-eCYdqJ hNHXnO"
         >
-          Instagram clone, with features including posting, following, liking, etc
+          Instagram clone, with features including posting, following, liking, authentication, etc
         </p>
         <ul
           class="sc-iBkjds kRHReX"
@@ -176,56 +184,64 @@ exports[`Projects should render and match the snapshot 1`] = `
         <ul
           class="sc-iBkjds sc-jqUVSM kRHReX iBZUSe"
         >
-          <a
-            href="https://nevz9.github.io/fakegram-react/"
-            rel="noreferrer noopener"
-            target="_blank"
+          <li
+            class="sc-kDDrLX"
           >
-            <svg
-              fill="none"
-              height="1em"
-              stroke="currentColor"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              stroke-width="2"
-              viewBox="0 0 24 24"
-              width="1em"
-              xmlns="http://www.w3.org/2000/svg"
+            <a
+              href="https://nevz9.github.io/fakegram-react/"
+              rel="noreferrer noopener"
+              target="_blank"
             >
-              <path
-                d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"
-              />
-              <circle
-                cx="12"
-                cy="12"
-                r="3"
-              />
-            </svg>
-          </a>
-          <a
-            href="https://github.com/nevz9/fakegram-react"
-            rel="noreferrer noopener"
-            target="_blank"
+              <svg
+                fill="none"
+                height="1em"
+                stroke="currentColor"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                viewBox="0 0 24 24"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"
+                />
+                <circle
+                  cx="12"
+                  cy="12"
+                  r="3"
+                />
+              </svg>
+            </a>
+          </li>
+          <li
+            class="sc-kDDrLX"
           >
-            <svg
-              fill="none"
-              height="1em"
-              stroke="currentColor"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              stroke-width="2"
-              viewBox="0 0 24 24"
-              width="1em"
-              xmlns="http://www.w3.org/2000/svg"
+            <a
+              href="https://github.com/nevz9/fakegram-react"
+              rel="noreferrer noopener"
+              target="_blank"
             >
-              <polyline
-                points="16 18 22 12 16 6"
-              />
-              <polyline
-                points="8 6 2 12 8 18"
-              />
-            </svg>
-          </a>
+              <svg
+                fill="none"
+                height="1em"
+                stroke="currentColor"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                viewBox="0 0 24 24"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <polyline
+                  points="16 18 22 12 16 6"
+                />
+                <polyline
+                  points="8 6 2 12 8 18"
+                />
+              </svg>
+            </a>
+          </li>
         </ul>
       </div>
       <div
@@ -288,56 +304,64 @@ exports[`Projects should render and match the snapshot 1`] = `
         <ul
           class="sc-iBkjds sc-jqUVSM kRHReX iBZUSe"
         >
-          <a
-            href="https://photo-tagging-app-852b2.web.app/#/"
-            rel="noreferrer noopener"
-            target="_blank"
+          <li
+            class="sc-kDDrLX"
           >
-            <svg
-              fill="none"
-              height="1em"
-              stroke="currentColor"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              stroke-width="2"
-              viewBox="0 0 24 24"
-              width="1em"
-              xmlns="http://www.w3.org/2000/svg"
+            <a
+              href="https://photo-tagging-app-852b2.web.app/#/"
+              rel="noreferrer noopener"
+              target="_blank"
             >
-              <path
-                d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"
-              />
-              <circle
-                cx="12"
-                cy="12"
-                r="3"
-              />
-            </svg>
-          </a>
-          <a
-            href="https://github.com/nevz9/photo-tagging-app"
-            rel="noreferrer noopener"
-            target="_blank"
+              <svg
+                fill="none"
+                height="1em"
+                stroke="currentColor"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                viewBox="0 0 24 24"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"
+                />
+                <circle
+                  cx="12"
+                  cy="12"
+                  r="3"
+                />
+              </svg>
+            </a>
+          </li>
+          <li
+            class="sc-kDDrLX"
           >
-            <svg
-              fill="none"
-              height="1em"
-              stroke="currentColor"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              stroke-width="2"
-              viewBox="0 0 24 24"
-              width="1em"
-              xmlns="http://www.w3.org/2000/svg"
+            <a
+              href="https://github.com/nevz9/photo-tagging-app"
+              rel="noreferrer noopener"
+              target="_blank"
             >
-              <polyline
-                points="16 18 22 12 16 6"
-              />
-              <polyline
-                points="8 6 2 12 8 18"
-              />
-            </svg>
-          </a>
+              <svg
+                fill="none"
+                height="1em"
+                stroke="currentColor"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                viewBox="0 0 24 24"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <polyline
+                  points="16 18 22 12 16 6"
+                />
+                <polyline
+                  points="8 6 2 12 8 18"
+                />
+              </svg>
+            </a>
+          </li>
         </ul>
       </div>
       <div
@@ -391,56 +415,64 @@ exports[`Projects should render and match the snapshot 1`] = `
         <ul
           class="sc-iBkjds sc-jqUVSM kRHReX iBZUSe"
         >
-          <a
-            href="https://nevz9.github.io/shopping-cart/"
-            rel="noreferrer noopener"
-            target="_blank"
+          <li
+            class="sc-kDDrLX"
           >
-            <svg
-              fill="none"
-              height="1em"
-              stroke="currentColor"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              stroke-width="2"
-              viewBox="0 0 24 24"
-              width="1em"
-              xmlns="http://www.w3.org/2000/svg"
+            <a
+              href="https://nevz9.github.io/shopping-cart/"
+              rel="noreferrer noopener"
+              target="_blank"
             >
-              <path
-                d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"
-              />
-              <circle
-                cx="12"
-                cy="12"
-                r="3"
-              />
-            </svg>
-          </a>
-          <a
-            href="https://github.com/nevz9/shopping-cart"
-            rel="noreferrer noopener"
-            target="_blank"
+              <svg
+                fill="none"
+                height="1em"
+                stroke="currentColor"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                viewBox="0 0 24 24"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"
+                />
+                <circle
+                  cx="12"
+                  cy="12"
+                  r="3"
+                />
+              </svg>
+            </a>
+          </li>
+          <li
+            class="sc-kDDrLX"
           >
-            <svg
-              fill="none"
-              height="1em"
-              stroke="currentColor"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              stroke-width="2"
-              viewBox="0 0 24 24"
-              width="1em"
-              xmlns="http://www.w3.org/2000/svg"
+            <a
+              href="https://github.com/nevz9/shopping-cart"
+              rel="noreferrer noopener"
+              target="_blank"
             >
-              <polyline
-                points="16 18 22 12 16 6"
-              />
-              <polyline
-                points="8 6 2 12 8 18"
-              />
-            </svg>
-          </a>
+              <svg
+                fill="none"
+                height="1em"
+                stroke="currentColor"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                viewBox="0 0 24 24"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <polyline
+                  points="16 18 22 12 16 6"
+                />
+                <polyline
+                  points="8 6 2 12 8 18"
+                />
+              </svg>
+            </a>
+          </li>
         </ul>
       </div>
     </div>

@@ -1,12 +1,6 @@
 import { Icons } from './Icons';
-import { FiEye, FiCode } from 'react-icons/fi';
-import {
-  LinksIcons,
-  ProjectDescription,
-  ProjectImage,
-  ProjectImageWrapper,
-  StyledProjectCard
-} from './styles';
+import { ProjectLinks } from './ProjectLinks';
+import { ProjectDescription, ProjectImage, ProjectImageWrapper, StyledProjectCard } from './styles';
 
 interface Data {
   title: string;
@@ -29,14 +23,7 @@ export const ProjectCard = ({ data }: Props) => {
       </ProjectImageWrapper>
       <ProjectDescription>{data.description}</ProjectDescription>
       <Icons technologies={data.technologies} />
-      <LinksIcons>
-        <a href={data.live} target="_blank" rel="noreferrer noopener">
-          <FiEye />
-        </a>
-        <a href={data.repo} target="_blank" rel="noreferrer noopener">
-          <FiCode />
-        </a>
-      </LinksIcons>
+      <ProjectLinks repo={data.repo} live={data.live} />
     </StyledProjectCard>
   );
 };

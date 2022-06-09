@@ -76,10 +76,12 @@ export const IconImage = styled.img`
   height: 25px;
 `;
 
-export const LinksIcons = styled(StyledIcons)`
+export const StyledProjectLinks = styled(StyledIcons)`
   gap: 0.3rem;
   right: 0;
   > * {
     font-size: 1.5rem;
   }
 `;
+
+export const ProjectLink = styled.li``;
