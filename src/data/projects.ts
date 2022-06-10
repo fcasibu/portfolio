@@ -68,4 +68,17 @@ export const projects = [
       require('../assets/webpack.svg')
     ]
   },
+  {
+    title: 'Personal Portfolio',
+    description: 'Personal Portfolio. Using styled components and typescript for the first time',
+    repo: 'https://github.com/nevz9/portfolio/',
+    live: 'https://franciscasibu.codes/',
+    image: require('../assets/portfolio.png'),
+    technologies: [
+      require('../assets/react.svg'),
+      require('../assets/typescript.svg'),
+      require('../assets/styled.svg'),
+      require('../assets/jest.svg')
+    ]
+  }
 ];
