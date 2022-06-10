@@ -1,12 +1,24 @@
-import styled from 'styled-components';
+import styled, { keyframes } from 'styled-components';
+
+const fadeIn = keyframes`
+  from {
+    padding-top: 11rem;
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+    padding-top: 7rem;
+  }
+`
 
 export const ShowcaseWrapper = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
   text-align: center;
-  margin-top: 7rem;
-  min-height: 70vh;
+  min-height: 100vh;
+  animation: ${fadeIn} 1s ease-in-out forwards;
 `;
 
 export const ShowcaseTitle = styled.h1`
