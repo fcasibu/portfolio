@@ -1,0 +1,150 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`About Me should render properly and match the snapshot 1`] = `
+<div>
+  <div
+    class="sc-bczRLJ eKmATL"
+  >
+    <h2
+      class="sc-hKMtZM djkVFZ"
+    >
+      About me
+    </h2>
+    <div
+      class="sc-gsnTZi"
+    >
+      <div
+        class="sc-eCYdqJ hGxLib"
+      >
+        <img
+          alt=""
+          class="sc-jSMfEi kROrc"
+          src="avatar-default-icon.png"
+        />
+        <p
+          class="sc-gKXOVf fbbGVl"
+        >
+          Hello there! I am Francis Eugene Casibu, a full stack web developer based in the Philippines. An undergrad studying Information Technology. I have a passion for developing web appplications, and fully committed to lifelong learning.
+        </p>
+      </div>
+      <p
+        class="sc-gKXOVf fbbGVl"
+      >
+        I started my Web Development journey on January 8, 2022 and has been going strong ever since. I enjoy reading light novels, working out, and having fun playing basketball when I am off coding
+      </p>
+    </div>
+    <h2
+      class="sc-hKMtZM djkVFZ"
+    >
+      Languages and Tools
+    </h2>
+    <div
+      class="sc-dkzDqf elkwRH"
+    >
+      <ul
+        class="sc-iBkjds dBFxdG"
+      >
+        <li
+          class="sc-ftvSup"
+        >
+          <img
+            alt=""
+            class="sc-papXJ cPdMu"
+            src="html.svg"
+          />
+        </li>
+        <li
+          class="sc-ftvSup"
+        >
+          <img
+            alt=""
+            class="sc-papXJ cPdMu"
+            src="css.svg"
+          />
+        </li>
+        <li
+          class="sc-ftvSup"
+        >
+          <img
+            alt=""
+            class="sc-papXJ cPdMu"
+            src="javascript.svg"
+          />
+        </li>
+        <li
+          class="sc-ftvSup"
+        >
+          <img
+            alt=""
+            class="sc-papXJ cPdMu"
+            src="typescript.svg"
+          />
+        </li>
+        <li
+          class="sc-ftvSup"
+        >
+          <img
+            alt=""
+            class="sc-papXJ cPdMu"
+            src="react.svg"
+          />
+        </li>
+        <li
+          class="sc-ftvSup"
+        >
+          <img
+            alt=""
+            class="sc-papXJ cPdMu"
+            src="node.svg"
+          />
+        </li>
+        <li
+          class="sc-ftvSup"
+        >
+          <img
+            alt=""
+            class="sc-papXJ cPdMu"
+            src="mongodb.svg"
+          />
+        </li>
+        <li
+          class="sc-ftvSup"
+        >
+          <img
+            alt=""
+            class="sc-papXJ cPdMu"
+            src="jest.svg"
+          />
+        </li>
+        <li
+          class="sc-ftvSup"
+        >
+          <img
+            alt=""
+            class="sc-papXJ cPdMu"
+            src="firebase.svg"
+          />
+        </li>
+        <li
+          class="sc-ftvSup"
+        >
+          <img
+            alt=""
+            class="sc-papXJ cPdMu"
+            src="git.svg"
+          />
+        </li>
+        <li
+          class="sc-ftvSup"
+        >
+          <img
+            alt=""
+            class="sc-papXJ cPdMu"
+            src="webpack.svg"
+          />
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+`;
