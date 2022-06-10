@@ -10,8 +10,12 @@ interface Props {
 export const ProjectLinks = ({ repo, live }: Props) => {
   return (
     <StyledProjectLinks>
-      <ProjectLink link={live}><FiEye /></ProjectLink>
-      <ProjectLink link={repo}><FiCode /></ProjectLink>
+      <ProjectLink link={live}>
+        <FiEye />
+      </ProjectLink>
+      <ProjectLink link={repo}>
+        <FiCode />
+      </ProjectLink>
     </StyledProjectLinks>
   );
 };

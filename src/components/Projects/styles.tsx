@@ -3,7 +3,7 @@ import styled from 'styled-components';
 export const ProjectsWrapper = styled.div`
   @media (max-width: 640px) {
     display: flex;
-    flex-direction:column;
+    flex-direction: column;
     align-items: center;
     padding: 0 1rem;
   }
@@ -77,7 +77,6 @@ export const ProjectImageWrapper = styled.div`
   @media (max-width: 640px) {
     width: 100%;
   }
-
 `;
 
 export const ProjectImage = styled.img`
@@ -89,9 +88,8 @@ export const ProjectImage = styled.img`
 
   @media (max-width: 640px) {
     width: 100%;
-    height:200px;
+    height: 200px;
   }
-
 `;
 
 export const StyledIcons = styled.ul`
@@ -109,9 +107,8 @@ export const IconImage = styled.img`
 
   @media (max-width: 640px) {
     width: 35px;
-    height:35px;
+    height: 35px;
   }
-
 `;
 
 export const StyledProjectLinks = styled(StyledIcons)`
@@ -124,4 +121,3 @@ export const StyledProjectLinks = styled(StyledIcons)`
     }
   }
 `;
-

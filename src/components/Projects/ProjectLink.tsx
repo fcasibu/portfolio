@@ -6,5 +6,11 @@ interface Props {
 }
 
 export const ProjectLink = ({ link, children }: Props) => {
-  return <li><a href={link} target="_blank" rel="noreferrer noopener">{children}</a></li>
-}
+  return (
+    <li>
+      <a href={link} target="_blank" rel="noreferrer noopener">
+        {children}
+      </a>
+    </li>
+  );
+};
