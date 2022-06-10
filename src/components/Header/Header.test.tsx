@@ -7,12 +7,12 @@ import { ThemeIcon } from './ThemeIcon';
 
 describe('Header', () => {
   it('should render and match the snapshot', () => {
-    const { container } = render(<Header scrollToProjects={jest.fn()} />);
+    const { container } = render(<Header scrollToProjects={jest.fn()} open={jest.fn()} />);
     expect(container).toMatchSnapshot();
   });
 
   it('should display the logo', () => {
-    render(<Header scrollToProjects={jest.fn()} />);
+    render(<Header scrollToProjects={jest.fn()} open={jest.fn()} />);
     const logo = screen.getByText(/nevz/i);
     expect(logo).toHaveTextContent('nevz');
   });
@@ -25,7 +25,7 @@ describe('Header', () => {
   });
 
   it('should display the correct length of links', () => {
-    render(<Header scrollToProjects={jest.fn()} />);
+    render(<Header scrollToProjects={jest.fn()} open={jest.fn()} />);
 
     const listitem = screen.getAllByRole('listitem');
     expect(listitem).toHaveLength(2);

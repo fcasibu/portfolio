@@ -8,7 +8,7 @@ export const StyledHeader = styled.header`
   margin: 0 auto;
   padding: 1rem;
   backdrop-filter: blur(8px);
-  z-index: 10000;
+  z-index: 10;
 `;
 
 export const Nav = styled.nav`

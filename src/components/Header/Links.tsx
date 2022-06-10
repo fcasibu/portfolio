@@ -3,13 +3,14 @@ import { StyledLinks } from './styles';
 
 interface Props {
   scrollToProjects(): void;
+  open(): void;
 }
 
-export const Links = ({ scrollToProjects }: Props) => {
+export const Links = ({ scrollToProjects, open }: Props) => {
   return (
     <StyledLinks>
       <LinkItem itemName="Projects" scrollToProjects={scrollToProjects} />
-      <LinkItem itemName="About" />
+      <LinkItem itemName="About" open={open} />
     </StyledLinks>
   );
 };

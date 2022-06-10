@@ -5,9 +5,10 @@ import { ThemeIcon } from './ThemeIcon';
 
 interface Props {
   scrollToProjects(): void;
+  open(): void;
 }
 
-const Header = ({ scrollToProjects }: Props) => {
+const Header = ({ scrollToProjects, open }: Props) => {
   const [theme, setTheme] = React.useState('light');
 
   const changeThemeHandler = () => {
@@ -19,7 +20,7 @@ const Header = ({ scrollToProjects }: Props) => {
     <StyledHeader>
       <Nav>
         <SiteTitle>nevz</SiteTitle>
-        <Links scrollToProjects={scrollToProjects} />
+        <Links scrollToProjects={scrollToProjects} open={open} />
         <ThemeIcon theme={theme} changeTheme={changeThemeHandler} />
       </Nav>
     </StyledHeader>
