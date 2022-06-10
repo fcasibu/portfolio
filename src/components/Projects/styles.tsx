@@ -26,19 +26,18 @@ export const StyledProjectsList = styled.div`
   }
 `;
 
-export const StyledProjectCard = styled.div<{isVisible: boolean}>`
+export const StyledProjectCard = styled.div<{ isVisible: boolean }>`
   position: relative;
   width: 250px;
   height: 280px;
   display: flex;
   flex-direction: column;
   gap: 1rem;
-  opacity: ${props => props.isVisible ? 1 : 0};
-  transform: ${props => props.isVisible ? 'none' : 'translateY(30px)'};
-  visibility: ${props => props.isVisible ? 'visible' : 'hidden'};
-  transition: opacity 0.6s ease-out, transform 500ms ease-out;
+  opacity: ${(props) => (props.isVisible ? 1 : 0)};
+  transform: ${(props) => (props.isVisible ? 'none' : 'translateY(30px)')};
+  visibility: ${(props) => (props.isVisible ? 'visible' : 'hidden')};
+  transition: all 600ms ease-in-out;
   will-change: opacity, visibility;
-
 
   @media (max-width: 640px) {
     width: 350px;

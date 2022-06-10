@@ -10,7 +10,7 @@ const fadeIn = keyframes`
     opacity: 1;
     padding-top: 7rem;
   }
-`
+`;
 
 export const ShowcaseWrapper = styled.div`
   display: flex;

@@ -17,16 +17,16 @@ interface Props {
 }
 
 export const ProjectCard = ({ data }: Props) => {
-  const cardRef = React.useRef<HTMLDivElement>(null)
+  const cardRef = React.useRef<HTMLDivElement>(null);
   const [isVisible, setIsVisible] = React.useState(true);
 
   React.useEffect(() => {
-    const observer = new IntersectionObserver(entries => {
-      entries.forEach(entry => setIsVisible(entry.isIntersecting));
-    })
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach((entry) => setIsVisible(entry.isIntersecting));
+    });
     observer.observe(cardRef.current as HTMLDivElement);
     return () => observer.unobserve(cardRef.current as HTMLDivElement);
-  }, [])
+  }, []);
 
   return (
     <StyledProjectCard ref={cardRef} isVisible={isVisible}>
