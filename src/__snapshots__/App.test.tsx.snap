@@ -2,8 +2,10 @@
 
 exports[`App should render the whole app and match te snapshot 1`] = `
 <div>
+  <div />
+  <div />
   <header
-    class="sc-bczRLJ eGILSf"
+    class="sc-bczRLJ hmKztP"
   >
     <nav
       class="sc-gsnTZi cwkucC"
@@ -104,7 +106,7 @@ exports[`App should render the whole app and match te snapshot 1`] = `
     </nav>
   </header>
   <div
-    class="sc-idiyUo dcdsTq"
+    class="sc-llJcti gYJzCN"
   >
     <div
       class="sc-iBkjds ekFYN"
@@ -144,7 +146,7 @@ exports[`App should render the whole app and match te snapshot 1`] = `
             title="Battleship"
           >
             <img
-              class="sc-ksZaOG IwNMs"
+              class="sc-ksZaOG cNWNAQ"
               src="battleship.png"
             />
           </div>
@@ -154,56 +156,56 @@ exports[`App should render the whole app and match te snapshot 1`] = `
             Single player battleship game, where the player and computer battles out who sinks the most ships first
           </p>
           <ul
-            class="sc-hAZoDl laIFgW"
+            class="sc-fnykZs bjHzAK"
           >
             <li
-              class="sc-fnykZs"
+              class="sc-fEOsli"
             >
               <img
                 alt=""
-                class="sc-fEOsli hrpWtb"
+                class="sc-bjUoiL fHxHZS"
                 src="html.svg"
               />
             </li>
             <li
-              class="sc-fnykZs"
+              class="sc-fEOsli"
             >
               <img
                 alt=""
-                class="sc-fEOsli hrpWtb"
+                class="sc-bjUoiL fHxHZS"
                 src="css.svg"
               />
             </li>
             <li
-              class="sc-fnykZs"
+              class="sc-fEOsli"
             >
               <img
                 alt=""
-                class="sc-fEOsli hrpWtb"
+                class="sc-bjUoiL fHxHZS"
                 src="javascript.svg"
               />
             </li>
             <li
-              class="sc-fnykZs"
+              class="sc-fEOsli"
             >
               <img
                 alt=""
-                class="sc-fEOsli hrpWtb"
+                class="sc-bjUoiL fHxHZS"
                 src="jest.svg"
               />
             </li>
             <li
-              class="sc-fnykZs"
+              class="sc-fEOsli"
             >
               <img
                 alt=""
-                class="sc-fEOsli hrpWtb"
+                class="sc-bjUoiL fHxHZS"
                 src="webpack.svg"
               />
             </li>
           </ul>
           <ul
-            class="sc-hAZoDl sc-bjUoiL laIFgW gyeHTn"
+            class="sc-hAZoDl dPTzkH"
           >
             <li>
               <a
@@ -269,7 +271,7 @@ exports[`App should render the whole app and match te snapshot 1`] = `
             title="Fakegram"
           >
             <img
-              class="sc-ksZaOG IwNMs"
+              class="sc-ksZaOG cNWNAQ"
               src="fakegram.png"
             />
           </div>
@@ -279,38 +281,38 @@ exports[`App should render the whole app and match te snapshot 1`] = `
             Instagram clone, with features including posting, following, liking, authentication, etc
           </p>
           <ul
-            class="sc-hAZoDl laIFgW"
+            class="sc-fnykZs bjHzAK"
           >
             <li
-              class="sc-fnykZs"
+              class="sc-fEOsli"
             >
               <img
                 alt=""
-                class="sc-fEOsli hrpWtb"
+                class="sc-bjUoiL fHxHZS"
                 src="react.svg"
               />
             </li>
             <li
-              class="sc-fnykZs"
+              class="sc-fEOsli"
             >
               <img
                 alt=""
-                class="sc-fEOsli hrpWtb"
+                class="sc-bjUoiL fHxHZS"
                 src="firebase.svg"
               />
             </li>
             <li
-              class="sc-fnykZs"
+              class="sc-fEOsli"
             >
               <img
                 alt=""
-                class="sc-fEOsli hrpWtb"
+                class="sc-bjUoiL fHxHZS"
                 src="css.svg"
               />
             </li>
           </ul>
           <ul
-            class="sc-hAZoDl sc-bjUoiL laIFgW gyeHTn"
+            class="sc-hAZoDl dPTzkH"
           >
             <li>
               <a
@@ -376,7 +378,7 @@ exports[`App should render the whole app and match te snapshot 1`] = `
             title="Photo Tagging Application"
           >
             <img
-              class="sc-ksZaOG IwNMs"
+              class="sc-ksZaOG cNWNAQ"
               src="photo-tagging.png"
             />
           </div>
@@ -386,47 +388,47 @@ exports[`App should render the whole app and match te snapshot 1`] = `
             Photo Tagging Application. Three maps. Three Characters. Find all three as fast as you can!
           </p>
           <ul
-            class="sc-hAZoDl laIFgW"
+            class="sc-fnykZs bjHzAK"
           >
             <li
-              class="sc-fnykZs"
+              class="sc-fEOsli"
             >
               <img
                 alt=""
-                class="sc-fEOsli hrpWtb"
+                class="sc-bjUoiL fHxHZS"
                 src="react.svg"
               />
             </li>
             <li
-              class="sc-fnykZs"
+              class="sc-fEOsli"
             >
               <img
                 alt=""
-                class="sc-fEOsli hrpWtb"
+                class="sc-bjUoiL fHxHZS"
                 src="firebase.svg"
               />
             </li>
             <li
-              class="sc-fnykZs"
+              class="sc-fEOsli"
             >
               <img
                 alt=""
-                class="sc-fEOsli hrpWtb"
+                class="sc-bjUoiL fHxHZS"
                 src="jest.svg"
               />
             </li>
             <li
-              class="sc-fnykZs"
+              class="sc-fEOsli"
             >
               <img
                 alt=""
-                class="sc-fEOsli hrpWtb"
+                class="sc-bjUoiL fHxHZS"
                 src="css.svg"
               />
             </li>
           </ul>
           <ul
-            class="sc-hAZoDl sc-bjUoiL laIFgW gyeHTn"
+            class="sc-hAZoDl dPTzkH"
           >
             <li>
               <a
@@ -492,7 +494,7 @@ exports[`App should render the whole app and match te snapshot 1`] = `
             title="Shopping Cart"
           >
             <img
-              class="sc-ksZaOG IwNMs"
+              class="sc-ksZaOG cNWNAQ"
               src="shopping-cart.png"
             />
           </div>
@@ -502,38 +504,38 @@ exports[`App should render the whole app and match te snapshot 1`] = `
             Shopping Cart. First time implementing React Router and imitating the logic of shoping and adding to a cart
           </p>
           <ul
-            class="sc-hAZoDl laIFgW"
+            class="sc-fnykZs bjHzAK"
           >
             <li
-              class="sc-fnykZs"
+              class="sc-fEOsli"
             >
               <img
                 alt=""
-                class="sc-fEOsli hrpWtb"
+                class="sc-bjUoiL fHxHZS"
                 src="react.svg"
               />
             </li>
             <li
-              class="sc-fnykZs"
+              class="sc-fEOsli"
             >
               <img
                 alt=""
-                class="sc-fEOsli hrpWtb"
+                class="sc-bjUoiL fHxHZS"
                 src="css.svg"
               />
             </li>
             <li
-              class="sc-fnykZs"
+              class="sc-fEOsli"
             >
               <img
                 alt=""
-                class="sc-fEOsli hrpWtb"
+                class="sc-bjUoiL fHxHZS"
                 src="jest.svg"
               />
             </li>
           </ul>
           <ul
-            class="sc-hAZoDl sc-bjUoiL laIFgW gyeHTn"
+            class="sc-hAZoDl dPTzkH"
           >
             <li>
               <a
@@ -599,7 +601,7 @@ exports[`App should render the whole app and match te snapshot 1`] = `
             title="Todo App"
           >
             <img
-              class="sc-ksZaOG IwNMs"
+              class="sc-ksZaOG cNWNAQ"
               src="todo.png"
             />
           </div>
@@ -609,47 +611,47 @@ exports[`App should render the whole app and match te snapshot 1`] = `
             Todo App. First big project to deal with CRUD operations and using local storage for data persistence
           </p>
           <ul
-            class="sc-hAZoDl laIFgW"
+            class="sc-fnykZs bjHzAK"
           >
             <li
-              class="sc-fnykZs"
+              class="sc-fEOsli"
             >
               <img
                 alt=""
-                class="sc-fEOsli hrpWtb"
+                class="sc-bjUoiL fHxHZS"
                 src="html.svg"
               />
             </li>
             <li
-              class="sc-fnykZs"
+              class="sc-fEOsli"
             >
               <img
                 alt=""
-                class="sc-fEOsli hrpWtb"
+                class="sc-bjUoiL fHxHZS"
                 src="css.svg"
               />
             </li>
             <li
-              class="sc-fnykZs"
+              class="sc-fEOsli"
             >
               <img
                 alt=""
-                class="sc-fEOsli hrpWtb"
+                class="sc-bjUoiL fHxHZS"
                 src="javascript.svg"
               />
             </li>
             <li
-              class="sc-fnykZs"
+              class="sc-fEOsli"
             >
               <img
                 alt=""
-                class="sc-fEOsli hrpWtb"
+                class="sc-bjUoiL fHxHZS"
                 src="webpack.svg"
               />
             </li>
           </ul>
           <ul
-            class="sc-hAZoDl sc-bjUoiL laIFgW gyeHTn"
+            class="sc-hAZoDl dPTzkH"
           >
             <li>
               <a
@@ -715,7 +717,7 @@ exports[`App should render the whole app and match te snapshot 1`] = `
             title="Personal Portfolio"
           >
             <img
-              class="sc-ksZaOG IwNMs"
+              class="sc-ksZaOG cNWNAQ"
               src="portfolio.png"
             />
           </div>
@@ -725,47 +727,47 @@ exports[`App should render the whole app and match te snapshot 1`] = `
             Personal Portfolio. Using styled components and typescript for the first time
           </p>
           <ul
-            class="sc-hAZoDl laIFgW"
+            class="sc-fnykZs bjHzAK"
           >
             <li
-              class="sc-fnykZs"
+              class="sc-fEOsli"
             >
               <img
                 alt=""
-                class="sc-fEOsli hrpWtb"
+                class="sc-bjUoiL fHxHZS"
                 src="react.svg"
               />
             </li>
             <li
-              class="sc-fnykZs"
+              class="sc-fEOsli"
             >
               <img
                 alt=""
-                class="sc-fEOsli hrpWtb"
+                class="sc-bjUoiL fHxHZS"
                 src="typescript.svg"
               />
             </li>
             <li
-              class="sc-fnykZs"
+              class="sc-fEOsli"
             >
               <img
                 alt=""
-                class="sc-fEOsli hrpWtb"
+                class="sc-bjUoiL fHxHZS"
                 src="styled.svg"
               />
             </li>
             <li
-              class="sc-fnykZs"
+              class="sc-fEOsli"
             >
               <img
                 alt=""
-                class="sc-fEOsli hrpWtb"
+                class="sc-bjUoiL fHxHZS"
                 src="jest.svg"
               />
             </li>
           </ul>
           <ul
-            class="sc-hAZoDl sc-bjUoiL laIFgW gyeHTn"
+            class="sc-hAZoDl dPTzkH"
           >
             <li>
               <a
@@ -827,7 +829,7 @@ exports[`App should render the whole app and match te snapshot 1`] = `
     </div>
   </div>
   <a
-    class="sc-dIouRR geQLIX"
+    class="sc-iIPllB hSLeFG"
     href="https://github.com/nevz9/portfolio/"
     rel="noreferrer noopener"
     target="_blank"
