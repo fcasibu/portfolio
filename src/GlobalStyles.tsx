@@ -17,6 +17,12 @@ export const GlobalStyle = createGlobalStyle`
     font-family: 'Public Sans', sans-serif;
   }
 
+  img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+  }
+
   a {
     color: var(--theme-text-color);
   }
