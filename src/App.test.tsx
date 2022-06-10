@@ -4,6 +4,15 @@ import userEvent from '@testing-library/user-event';
 import App from './App';
 
 describe('App', () => {
+  beforeEach(() => {
+    const mockFn = jest.fn();
+    mockFn.mockReturnValue({
+      observe: () => null,
+      unobserve: () => null
+    });
+    window.IntersectionObserver = mockFn;
+  });
+
   it('should render the whole app and match te snapshot', () => {
     const { container } = render(<App />);
 

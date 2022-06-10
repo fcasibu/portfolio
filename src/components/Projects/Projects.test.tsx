@@ -6,6 +6,15 @@ import { projects } from '../../data/projects';
 import { Icons } from './Icons';
 
 describe('Projects', () => {
+  beforeEach(() => {
+    const mockFn = jest.fn();
+    mockFn.mockReturnValue({
+      observe: () => null,
+      unobserve: () => null
+    });
+    window.IntersectionObserver = mockFn;
+  });
+
   it('should render and match the snapshot', () => {
     const { container } = render(<Projects />);
 

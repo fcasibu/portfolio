@@ -107,7 +107,7 @@ exports[`App should render the whole app and match te snapshot 1`] = `
     class="sc-idiyUo dcdsTq"
   >
     <div
-      class="sc-iBkjds edgefd"
+      class="sc-iBkjds ekFYN"
     >
       <h1
         class="sc-ftvSup eFeZbx"
@@ -137,7 +137,7 @@ exports[`App should render the whole app and match te snapshot 1`] = `
         class="sc-iqcoie ilpSpH"
       >
         <div
-          class="sc-crXcEl jTPrwp"
+          class="sc-crXcEl bQIyAE"
         >
           <div
             class="sc-breuTD ksUUkG"
@@ -262,7 +262,7 @@ exports[`App should render the whole app and match te snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="sc-crXcEl jTPrwp"
+          class="sc-crXcEl bQIyAE"
         >
           <div
             class="sc-breuTD dRYaYi"
@@ -369,7 +369,7 @@ exports[`App should render the whole app and match te snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="sc-crXcEl jTPrwp"
+          class="sc-crXcEl bQIyAE"
         >
           <div
             class="sc-breuTD kNoOqd"
@@ -485,7 +485,7 @@ exports[`App should render the whole app and match te snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="sc-crXcEl jTPrwp"
+          class="sc-crXcEl bQIyAE"
         >
           <div
             class="sc-breuTD hMqVrS"
@@ -592,7 +592,7 @@ exports[`App should render the whole app and match te snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="sc-crXcEl jTPrwp"
+          class="sc-crXcEl bQIyAE"
         >
           <div
             class="sc-breuTD gnNEGX"
@@ -708,7 +708,7 @@ exports[`App should render the whole app and match te snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="sc-crXcEl jTPrwp"
+          class="sc-crXcEl bQIyAE"
         >
           <div
             class="sc-breuTD jNSsFw"
