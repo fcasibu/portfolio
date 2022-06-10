@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { Icons } from './Icons';
+import Icons from '../Icons';
 import { ProjectLinks } from './ProjectLinks';
 import { ProjectDescription, ProjectImage, ProjectImageWrapper, StyledProjectCard } from './styles';
 
@@ -34,7 +34,7 @@ export const ProjectCard = ({ data }: Props) => {
         <ProjectImage src={data.image} />
       </ProjectImageWrapper>
       <ProjectDescription>{data.description}</ProjectDescription>
-      <Icons technologies={data.technologies} />
+      <Icons icons={data.technologies} size="small" state="absolute" />
       <ProjectLinks repo={data.repo} live={data.live} />
     </StyledProjectCard>
   );

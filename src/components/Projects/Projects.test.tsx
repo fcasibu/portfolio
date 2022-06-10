@@ -1,9 +1,8 @@
-import { render, screen, within } from '@testing-library/react';
+import { render, screen } from '@testing-library/react';
 import '@testing-library/jest-dom';
 import Projects from './Projects';
 import { ProjectCard } from './ProjectCard';
 import { projects } from '../../data/projects';
-import { Icons } from './Icons';
 
 describe('Projects', () => {
   beforeEach(() => {
@@ -38,13 +37,5 @@ describe('Projects', () => {
 
     expect(links[0].href).toEqual('https://nevz9.github.io/battleship/');
     expect(links[1].href).toEqual('https://github.com/nevz9/battleship');
-  });
-
-  it('should display the correct length of tech stack', () => {
-    render(<Icons technologies={projects[1].technologies} />);
-    const list = screen.getByRole('list');
-    const icons = within(list).getAllByRole('listitem');
-
-    expect(icons).toHaveLength(3);
   });
 });

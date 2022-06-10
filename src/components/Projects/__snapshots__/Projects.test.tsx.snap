@@ -21,7 +21,7 @@ exports[`Projects should render and match the snapshot 1`] = `
           title="Battleship"
         >
           <img
-            class="sc-gKXOVf eOuOho"
+            class="sc-gKXOVf fmLhIk"
             src="battleship.png"
           />
         </div>
@@ -31,56 +31,56 @@ exports[`Projects should render and match the snapshot 1`] = `
           Single player battleship game, where the player and computer battles out who sinks the most ships first
         </p>
         <ul
-          class="sc-iBkjds kRHReX"
+          class="sc-ftvSup fwQdZr"
         >
           <li
-            class="sc-ftvSup"
+            class="sc-papXJ"
           >
             <img
               alt=""
-              class="sc-papXJ gCYWsm"
+              class="sc-jqUVSM fvaYrv"
               src="html.svg"
             />
           </li>
           <li
-            class="sc-ftvSup"
+            class="sc-papXJ"
           >
             <img
               alt=""
-              class="sc-papXJ gCYWsm"
+              class="sc-jqUVSM fvaYrv"
               src="css.svg"
             />
           </li>
           <li
-            class="sc-ftvSup"
+            class="sc-papXJ"
           >
             <img
               alt=""
-              class="sc-papXJ gCYWsm"
+              class="sc-jqUVSM fvaYrv"
               src="javascript.svg"
             />
           </li>
           <li
-            class="sc-ftvSup"
+            class="sc-papXJ"
           >
             <img
               alt=""
-              class="sc-papXJ gCYWsm"
+              class="sc-jqUVSM fvaYrv"
               src="jest.svg"
             />
           </li>
           <li
-            class="sc-ftvSup"
+            class="sc-papXJ"
           >
             <img
               alt=""
-              class="sc-papXJ gCYWsm"
+              class="sc-jqUVSM fvaYrv"
               src="webpack.svg"
             />
           </li>
         </ul>
         <ul
-          class="sc-iBkjds sc-jqUVSM kRHReX kTxGLS"
+          class="sc-iBkjds gIKFUO"
         >
           <li>
             <a
@@ -146,7 +146,7 @@ exports[`Projects should render and match the snapshot 1`] = `
           title="Fakegram"
         >
           <img
-            class="sc-gKXOVf eOuOho"
+            class="sc-gKXOVf fmLhIk"
             src="fakegram.png"
           />
         </div>
@@ -156,38 +156,38 @@ exports[`Projects should render and match the snapshot 1`] = `
           Instagram clone, with features including posting, following, liking, authentication, etc
         </p>
         <ul
-          class="sc-iBkjds kRHReX"
+          class="sc-ftvSup fwQdZr"
         >
           <li
-            class="sc-ftvSup"
+            class="sc-papXJ"
           >
             <img
               alt=""
-              class="sc-papXJ gCYWsm"
+              class="sc-jqUVSM fvaYrv"
               src="react.svg"
             />
           </li>
           <li
-            class="sc-ftvSup"
+            class="sc-papXJ"
           >
             <img
               alt=""
-              class="sc-papXJ gCYWsm"
+              class="sc-jqUVSM fvaYrv"
               src="firebase.svg"
             />
           </li>
           <li
-            class="sc-ftvSup"
+            class="sc-papXJ"
           >
             <img
               alt=""
-              class="sc-papXJ gCYWsm"
+              class="sc-jqUVSM fvaYrv"
               src="css.svg"
             />
           </li>
         </ul>
         <ul
-          class="sc-iBkjds sc-jqUVSM kRHReX kTxGLS"
+          class="sc-iBkjds gIKFUO"
         >
           <li>
             <a
@@ -253,7 +253,7 @@ exports[`Projects should render and match the snapshot 1`] = `
           title="Photo Tagging Application"
         >
           <img
-            class="sc-gKXOVf eOuOho"
+            class="sc-gKXOVf fmLhIk"
             src="photo-tagging.png"
           />
         </div>
@@ -263,47 +263,47 @@ exports[`Projects should render and match the snapshot 1`] = `
           Photo Tagging Application. Three maps. Three Characters. Find all three as fast as you can!
         </p>
         <ul
-          class="sc-iBkjds kRHReX"
+          class="sc-ftvSup fwQdZr"
         >
           <li
-            class="sc-ftvSup"
+            class="sc-papXJ"
           >
             <img
               alt=""
-              class="sc-papXJ gCYWsm"
+              class="sc-jqUVSM fvaYrv"
               src="react.svg"
             />
           </li>
           <li
-            class="sc-ftvSup"
+            class="sc-papXJ"
           >
             <img
               alt=""
-              class="sc-papXJ gCYWsm"
+              class="sc-jqUVSM fvaYrv"
               src="firebase.svg"
             />
           </li>
           <li
-            class="sc-ftvSup"
+            class="sc-papXJ"
           >
             <img
               alt=""
-              class="sc-papXJ gCYWsm"
+              class="sc-jqUVSM fvaYrv"
               src="jest.svg"
             />
           </li>
           <li
-            class="sc-ftvSup"
+            class="sc-papXJ"
           >
             <img
               alt=""
-              class="sc-papXJ gCYWsm"
+              class="sc-jqUVSM fvaYrv"
               src="css.svg"
             />
           </li>
         </ul>
         <ul
-          class="sc-iBkjds sc-jqUVSM kRHReX kTxGLS"
+          class="sc-iBkjds gIKFUO"
         >
           <li>
             <a
@@ -369,7 +369,7 @@ exports[`Projects should render and match the snapshot 1`] = `
           title="Shopping Cart"
         >
           <img
-            class="sc-gKXOVf eOuOho"
+            class="sc-gKXOVf fmLhIk"
             src="shopping-cart.png"
           />
         </div>
@@ -379,38 +379,38 @@ exports[`Projects should render and match the snapshot 1`] = `
           Shopping Cart. First time implementing React Router and imitating the logic of shoping and adding to a cart
         </p>
         <ul
-          class="sc-iBkjds kRHReX"
+          class="sc-ftvSup fwQdZr"
         >
           <li
-            class="sc-ftvSup"
+            class="sc-papXJ"
           >
             <img
               alt=""
-              class="sc-papXJ gCYWsm"
+              class="sc-jqUVSM fvaYrv"
               src="react.svg"
             />
           </li>
           <li
-            class="sc-ftvSup"
+            class="sc-papXJ"
           >
             <img
               alt=""
-              class="sc-papXJ gCYWsm"
+              class="sc-jqUVSM fvaYrv"
               src="css.svg"
             />
           </li>
           <li
-            class="sc-ftvSup"
+            class="sc-papXJ"
           >
             <img
               alt=""
-              class="sc-papXJ gCYWsm"
+              class="sc-jqUVSM fvaYrv"
               src="jest.svg"
             />
           </li>
         </ul>
         <ul
-          class="sc-iBkjds sc-jqUVSM kRHReX kTxGLS"
+          class="sc-iBkjds gIKFUO"
         >
           <li>
             <a
@@ -476,7 +476,7 @@ exports[`Projects should render and match the snapshot 1`] = `
           title="Todo App"
         >
           <img
-            class="sc-gKXOVf eOuOho"
+            class="sc-gKXOVf fmLhIk"
             src="todo.png"
           />
         </div>
@@ -486,47 +486,47 @@ exports[`Projects should render and match the snapshot 1`] = `
           Todo App. First big project to deal with CRUD operations and using local storage for data persistence
         </p>
         <ul
-          class="sc-iBkjds kRHReX"
+          class="sc-ftvSup fwQdZr"
         >
           <li
-            class="sc-ftvSup"
+            class="sc-papXJ"
           >
             <img
               alt=""
-              class="sc-papXJ gCYWsm"
+              class="sc-jqUVSM fvaYrv"
               src="html.svg"
             />
           </li>
           <li
-            class="sc-ftvSup"
+            class="sc-papXJ"
           >
             <img
               alt=""
-              class="sc-papXJ gCYWsm"
+              class="sc-jqUVSM fvaYrv"
               src="css.svg"
             />
           </li>
           <li
-            class="sc-ftvSup"
+            class="sc-papXJ"
           >
             <img
               alt=""
-              class="sc-papXJ gCYWsm"
+              class="sc-jqUVSM fvaYrv"
               src="javascript.svg"
             />
           </li>
           <li
-            class="sc-ftvSup"
+            class="sc-papXJ"
           >
             <img
               alt=""
-              class="sc-papXJ gCYWsm"
+              class="sc-jqUVSM fvaYrv"
               src="webpack.svg"
             />
           </li>
         </ul>
         <ul
-          class="sc-iBkjds sc-jqUVSM kRHReX kTxGLS"
+          class="sc-iBkjds gIKFUO"
         >
           <li>
             <a
@@ -592,7 +592,7 @@ exports[`Projects should render and match the snapshot 1`] = `
           title="Personal Portfolio"
         >
           <img
-            class="sc-gKXOVf eOuOho"
+            class="sc-gKXOVf fmLhIk"
             src="portfolio.png"
           />
         </div>
@@ -602,47 +602,47 @@ exports[`Projects should render and match the snapshot 1`] = `
           Personal Portfolio. Using styled components and typescript for the first time
         </p>
         <ul
-          class="sc-iBkjds kRHReX"
+          class="sc-ftvSup fwQdZr"
         >
           <li
-            class="sc-ftvSup"
+            class="sc-papXJ"
           >
             <img
               alt=""
-              class="sc-papXJ gCYWsm"
+              class="sc-jqUVSM fvaYrv"
               src="react.svg"
             />
           </li>
           <li
-            class="sc-ftvSup"
+            class="sc-papXJ"
           >
             <img
               alt=""
-              class="sc-papXJ gCYWsm"
+              class="sc-jqUVSM fvaYrv"
               src="typescript.svg"
             />
           </li>
           <li
-            class="sc-ftvSup"
+            class="sc-papXJ"
           >
             <img
               alt=""
-              class="sc-papXJ gCYWsm"
+              class="sc-jqUVSM fvaYrv"
               src="styled.svg"
             />
           </li>
           <li
-            class="sc-ftvSup"
+            class="sc-papXJ"
           >
             <img
               alt=""
-              class="sc-papXJ gCYWsm"
+              class="sc-jqUVSM fvaYrv"
               src="jest.svg"
             />
           </li>
         </ul>
         <ul
-          class="sc-iBkjds sc-jqUVSM kRHReX kTxGLS"
+          class="sc-iBkjds gIKFUO"
         >
           <li>
             <a
