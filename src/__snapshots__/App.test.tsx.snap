@@ -126,25 +126,25 @@ exports[`App should render the whole app and match te snapshot 1`] = `
       </button>
     </div>
     <div
-      class="sc-jqUVSM"
+      class="sc-jqUVSM bvSxzK"
     >
       <h2
-        class="sc-kDDrLX hlUDzC"
+        class="sc-kDDrLX kHqMnP"
       >
         Projects
       </h2>
       <div
-        class="sc-iqcoie ePtYhm"
+        class="sc-iqcoie ilpSpH"
       >
         <div
-          class="sc-crXcEl iQNzLE"
+          class="sc-crXcEl jTPrwp"
         >
           <div
-            class="sc-breuTD kAyvJB"
+            class="sc-breuTD ksUUkG"
             title="Battleship"
           >
             <img
-              class="sc-ksZaOG bZrKHN"
+              class="sc-ksZaOG IwNMs"
               src="battleship.png"
             />
           </div>
@@ -161,7 +161,7 @@ exports[`App should render the whole app and match te snapshot 1`] = `
             >
               <img
                 alt=""
-                class="sc-fEOsli fbpjzo"
+                class="sc-fEOsli hrpWtb"
                 src="html.svg"
               />
             </li>
@@ -170,7 +170,7 @@ exports[`App should render the whole app and match te snapshot 1`] = `
             >
               <img
                 alt=""
-                class="sc-fEOsli fbpjzo"
+                class="sc-fEOsli hrpWtb"
                 src="css.svg"
               />
             </li>
@@ -179,7 +179,7 @@ exports[`App should render the whole app and match te snapshot 1`] = `
             >
               <img
                 alt=""
-                class="sc-fEOsli fbpjzo"
+                class="sc-fEOsli hrpWtb"
                 src="javascript.svg"
               />
             </li>
@@ -188,13 +188,22 @@ exports[`App should render the whole app and match te snapshot 1`] = `
             >
               <img
                 alt=""
-                class="sc-fEOsli fbpjzo"
+                class="sc-fEOsli hrpWtb"
                 src="jest.svg"
+              />
+            </li>
+            <li
+              class="sc-fnykZs"
+            >
+              <img
+                alt=""
+                class="sc-fEOsli hrpWtb"
+                src="webpack.svg"
               />
             </li>
           </ul>
           <ul
-            class="sc-hAZoDl sc-bjUoiL laIFgW fWmSox"
+            class="sc-hAZoDl sc-bjUoiL laIFgW gyeHTn"
           >
             <li>
               <a
@@ -253,14 +262,14 @@ exports[`App should render the whole app and match te snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="sc-crXcEl iQNzLE"
+          class="sc-crXcEl jTPrwp"
         >
           <div
-            class="sc-breuTD ljVDch"
+            class="sc-breuTD dRYaYi"
             title="Fakegram"
           >
             <img
-              class="sc-ksZaOG bZrKHN"
+              class="sc-ksZaOG IwNMs"
               src="fakegram.png"
             />
           </div>
@@ -277,7 +286,7 @@ exports[`App should render the whole app and match te snapshot 1`] = `
             >
               <img
                 alt=""
-                class="sc-fEOsli fbpjzo"
+                class="sc-fEOsli hrpWtb"
                 src="react.svg"
               />
             </li>
@@ -286,7 +295,7 @@ exports[`App should render the whole app and match te snapshot 1`] = `
             >
               <img
                 alt=""
-                class="sc-fEOsli fbpjzo"
+                class="sc-fEOsli hrpWtb"
                 src="firebase.svg"
               />
             </li>
@@ -295,13 +304,13 @@ exports[`App should render the whole app and match te snapshot 1`] = `
             >
               <img
                 alt=""
-                class="sc-fEOsli fbpjzo"
+                class="sc-fEOsli hrpWtb"
                 src="css.svg"
               />
             </li>
           </ul>
           <ul
-            class="sc-hAZoDl sc-bjUoiL laIFgW fWmSox"
+            class="sc-hAZoDl sc-bjUoiL laIFgW gyeHTn"
           >
             <li>
               <a
@@ -360,14 +369,14 @@ exports[`App should render the whole app and match te snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="sc-crXcEl iQNzLE"
+          class="sc-crXcEl jTPrwp"
         >
           <div
-            class="sc-breuTD bRwqVa"
+            class="sc-breuTD kNoOqd"
             title="Photo Tagging Application"
           >
             <img
-              class="sc-ksZaOG bZrKHN"
+              class="sc-ksZaOG IwNMs"
               src="photo-tagging.png"
             />
           </div>
@@ -384,7 +393,7 @@ exports[`App should render the whole app and match te snapshot 1`] = `
             >
               <img
                 alt=""
-                class="sc-fEOsli fbpjzo"
+                class="sc-fEOsli hrpWtb"
                 src="react.svg"
               />
             </li>
@@ -393,7 +402,7 @@ exports[`App should render the whole app and match te snapshot 1`] = `
             >
               <img
                 alt=""
-                class="sc-fEOsli fbpjzo"
+                class="sc-fEOsli hrpWtb"
                 src="firebase.svg"
               />
             </li>
@@ -402,7 +411,7 @@ exports[`App should render the whole app and match te snapshot 1`] = `
             >
               <img
                 alt=""
-                class="sc-fEOsli fbpjzo"
+                class="sc-fEOsli hrpWtb"
                 src="jest.svg"
               />
             </li>
@@ -411,13 +420,13 @@ exports[`App should render the whole app and match te snapshot 1`] = `
             >
               <img
                 alt=""
-                class="sc-fEOsli fbpjzo"
+                class="sc-fEOsli hrpWtb"
                 src="css.svg"
               />
             </li>
           </ul>
           <ul
-            class="sc-hAZoDl sc-bjUoiL laIFgW fWmSox"
+            class="sc-hAZoDl sc-bjUoiL laIFgW gyeHTn"
           >
             <li>
               <a
@@ -476,14 +485,14 @@ exports[`App should render the whole app and match te snapshot 1`] = `
           </ul>
         </div>
         <div
-          class="sc-crXcEl iQNzLE"
+          class="sc-crXcEl jTPrwp"
         >
           <div
-            class="sc-breuTD bIlmzl"
+            class="sc-breuTD hMqVrS"
             title="Shopping Cart"
           >
             <img
-              class="sc-ksZaOG bZrKHN"
+              class="sc-ksZaOG IwNMs"
               src="shopping-cart.png"
             />
           </div>
@@ -500,7 +509,7 @@ exports[`App should render the whole app and match te snapshot 1`] = `
             >
               <img
                 alt=""
-                class="sc-fEOsli fbpjzo"
+                class="sc-fEOsli hrpWtb"
                 src="react.svg"
               />
             </li>
@@ -509,7 +518,7 @@ exports[`App should render the whole app and match te snapshot 1`] = `
             >
               <img
                 alt=""
-                class="sc-fEOsli fbpjzo"
+                class="sc-fEOsli hrpWtb"
                 src="css.svg"
               />
             </li>
@@ -518,13 +527,13 @@ exports[`App should render the whole app and match te snapshot 1`] = `
             >
               <img
                 alt=""
-                class="sc-fEOsli fbpjzo"
+                class="sc-fEOsli hrpWtb"
                 src="jest.svg"
               />
             </li>
           </ul>
           <ul
-            class="sc-hAZoDl sc-bjUoiL laIFgW fWmSox"
+            class="sc-hAZoDl sc-bjUoiL laIFgW gyeHTn"
           >
             <li>
               <a
@@ -557,6 +566,238 @@ exports[`App should render the whole app and match te snapshot 1`] = `
             <li>
               <a
                 href="https://github.com/nevz9/shopping-cart"
+                rel="noreferrer noopener"
+                target="_blank"
+              >
+                <svg
+                  fill="none"
+                  height="1em"
+                  stroke="currentColor"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  viewBox="0 0 24 24"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <polyline
+                    points="16 18 22 12 16 6"
+                  />
+                  <polyline
+                    points="8 6 2 12 8 18"
+                  />
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div
+          class="sc-crXcEl jTPrwp"
+        >
+          <div
+            class="sc-breuTD gnNEGX"
+            title="Todo App"
+          >
+            <img
+              class="sc-ksZaOG IwNMs"
+              src="todo.png"
+            />
+          </div>
+          <p
+            class="sc-evZas jFFfFl"
+          >
+            Todo App. First big project to deal with CRUD operations and using local storage for data persistence
+          </p>
+          <ul
+            class="sc-hAZoDl laIFgW"
+          >
+            <li
+              class="sc-fnykZs"
+            >
+              <img
+                alt=""
+                class="sc-fEOsli hrpWtb"
+                src="html.svg"
+              />
+            </li>
+            <li
+              class="sc-fnykZs"
+            >
+              <img
+                alt=""
+                class="sc-fEOsli hrpWtb"
+                src="css.svg"
+              />
+            </li>
+            <li
+              class="sc-fnykZs"
+            >
+              <img
+                alt=""
+                class="sc-fEOsli hrpWtb"
+                src="javascript.svg"
+              />
+            </li>
+            <li
+              class="sc-fnykZs"
+            >
+              <img
+                alt=""
+                class="sc-fEOsli hrpWtb"
+                src="webpack.svg"
+              />
+            </li>
+          </ul>
+          <ul
+            class="sc-hAZoDl sc-bjUoiL laIFgW gyeHTn"
+          >
+            <li>
+              <a
+                href="https://nevz9.github.io/todo-list/"
+                rel="noreferrer noopener"
+                target="_blank"
+              >
+                <svg
+                  fill="none"
+                  height="1em"
+                  stroke="currentColor"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  viewBox="0 0 24 24"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"
+                  />
+                  <circle
+                    cx="12"
+                    cy="12"
+                    r="3"
+                  />
+                </svg>
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://github.com/nevz9/todo-list"
+                rel="noreferrer noopener"
+                target="_blank"
+              >
+                <svg
+                  fill="none"
+                  height="1em"
+                  stroke="currentColor"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  viewBox="0 0 24 24"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <polyline
+                    points="16 18 22 12 16 6"
+                  />
+                  <polyline
+                    points="8 6 2 12 8 18"
+                  />
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div
+          class="sc-crXcEl jTPrwp"
+        >
+          <div
+            class="sc-breuTD jNSsFw"
+            title="Personal Portfolio"
+          >
+            <img
+              class="sc-ksZaOG IwNMs"
+              src="portfolio.png"
+            />
+          </div>
+          <p
+            class="sc-evZas jFFfFl"
+          >
+            Personal Portfolio. Using styled components and typescript for the first time
+          </p>
+          <ul
+            class="sc-hAZoDl laIFgW"
+          >
+            <li
+              class="sc-fnykZs"
+            >
+              <img
+                alt=""
+                class="sc-fEOsli hrpWtb"
+                src="react.svg"
+              />
+            </li>
+            <li
+              class="sc-fnykZs"
+            >
+              <img
+                alt=""
+                class="sc-fEOsli hrpWtb"
+                src="typescript.svg"
+              />
+            </li>
+            <li
+              class="sc-fnykZs"
+            >
+              <img
+                alt=""
+                class="sc-fEOsli hrpWtb"
+                src="styled.svg"
+              />
+            </li>
+            <li
+              class="sc-fnykZs"
+            >
+              <img
+                alt=""
+                class="sc-fEOsli hrpWtb"
+                src="jest.svg"
+              />
+            </li>
+          </ul>
+          <ul
+            class="sc-hAZoDl sc-bjUoiL laIFgW gyeHTn"
+          >
+            <li>
+              <a
+                href="https://franciscasibu.codes/"
+                rel="noreferrer noopener"
+                target="_blank"
+              >
+                <svg
+                  fill="none"
+                  height="1em"
+                  stroke="currentColor"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  viewBox="0 0 24 24"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"
+                  />
+                  <circle
+                    cx="12"
+                    cy="12"
+                    r="3"
+                  />
+                </svg>
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://github.com/nevz9/portfolio/"
                 rel="noreferrer noopener"
                 target="_blank"
               >
