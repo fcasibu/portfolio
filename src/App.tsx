@@ -1,7 +1,6 @@
 import * as React from 'react';
 import styled from 'styled-components';
 import { GlobalStyle } from './GlobalStyles';
-import { FiCode } from 'react-icons/fi';
 import { useModal } from './hooks/useModal';
 import Header from './components/Header';
 import Showcase from './components/Showcase';
@@ -11,15 +10,8 @@ const Projects = React.lazy(() => import('./components/Projects'));
 
 const Wrapper = styled.div`
   width: 100%;
-  max-width: 600px;
+  max-width: 850px;
   margin: 1rem auto;
-`;
-
-const SourceCode = styled.a`
-  position: fixed;
-  right: 15px;
-  bottom: 0;
-  font-size: 2rem;
 `;
 
 function App() {
@@ -49,13 +41,6 @@ function App() {
         <Showcase scrollToProjects={scrollToProjects} />
         <Projects ref={projectsRef} />
       </Wrapper>
-      <SourceCode
-        href="https://github.com/nevz9/portfolio/"
-        target="_blank"
-        rel="noreferrer noopener"
-      >
-        <FiCode />
-      </SourceCode>
     </>
   );
 }
