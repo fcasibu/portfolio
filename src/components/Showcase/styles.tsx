@@ -17,7 +17,7 @@ export const ShowcaseWrapper = styled.div`
   flex-direction: column;
   align-items: center;
   text-align: center;
-  min-height: 100vh;
+  margin-bottom: 11rem;
   animation: ${fadeIn} 1s ease-in-out forwards;
 `;
 

@@ -3,7 +3,7 @@
 exports[`About Me should render properly and match the snapshot 1`] = `
 <div>
   <div
-    class="sc-gsnTZi jhBbNc"
+    class="sc-gsnTZi jojgMV"
   >
     <h2
       class="sc-papXJ ldZqnn"
@@ -14,11 +14,11 @@ exports[`About Me should render properly and match the snapshot 1`] = `
       class="sc-dkzDqf"
     >
       <div
-        class="sc-eCYdqJ dilfOq"
+        class="sc-eCYdqJ gMDJQi"
       >
         <img
           alt=""
-          class="sc-jSMfEi bfPLwU"
+          class="sc-jSMfEi kYnKDY"
           src="avatar-default-icon.png"
         />
         <p
@@ -49,7 +49,7 @@ exports[`About Me should render properly and match the snapshot 1`] = `
         >
           <img
             alt=""
-            class="sc-ftvSup ePeZbz"
+            class="sc-ftvSup gJHaXE"
             src="html.svg"
           />
         </li>
@@ -58,7 +58,7 @@ exports[`About Me should render properly and match the snapshot 1`] = `
         >
           <img
             alt=""
-            class="sc-ftvSup ePeZbz"
+            class="sc-ftvSup gJHaXE"
             src="css.svg"
           />
         </li>
@@ -67,7 +67,7 @@ exports[`About Me should render properly and match the snapshot 1`] = `
         >
           <img
             alt=""
-            class="sc-ftvSup ePeZbz"
+            class="sc-ftvSup gJHaXE"
             src="javascript.svg"
           />
         </li>
@@ -76,7 +76,7 @@ exports[`About Me should render properly and match the snapshot 1`] = `
         >
           <img
             alt=""
-            class="sc-ftvSup ePeZbz"
+            class="sc-ftvSup gJHaXE"
             src="typescript.svg"
           />
         </li>
@@ -85,7 +85,7 @@ exports[`About Me should render properly and match the snapshot 1`] = `
         >
           <img
             alt=""
-            class="sc-ftvSup ePeZbz"
+            class="sc-ftvSup gJHaXE"
             src="react.svg"
           />
         </li>
@@ -94,7 +94,7 @@ exports[`About Me should render properly and match the snapshot 1`] = `
         >
           <img
             alt=""
-            class="sc-ftvSup ePeZbz"
+            class="sc-ftvSup gJHaXE"
             src="node.svg"
           />
         </li>
@@ -103,7 +103,7 @@ exports[`About Me should render properly and match the snapshot 1`] = `
         >
           <img
             alt=""
-            class="sc-ftvSup ePeZbz"
+            class="sc-ftvSup gJHaXE"
             src="mongodb.svg"
           />
         </li>
@@ -112,7 +112,7 @@ exports[`About Me should render properly and match the snapshot 1`] = `
         >
           <img
             alt=""
-            class="sc-ftvSup ePeZbz"
+            class="sc-ftvSup gJHaXE"
             src="jest.svg"
           />
         </li>
@@ -121,7 +121,7 @@ exports[`About Me should render properly and match the snapshot 1`] = `
         >
           <img
             alt=""
-            class="sc-ftvSup ePeZbz"
+            class="sc-ftvSup gJHaXE"
             src="firebase.svg"
           />
         </li>
@@ -130,7 +130,7 @@ exports[`About Me should render properly and match the snapshot 1`] = `
         >
           <img
             alt=""
-            class="sc-ftvSup ePeZbz"
+            class="sc-ftvSup gJHaXE"
             src="git.svg"
           />
         </li>
@@ -139,7 +139,7 @@ exports[`About Me should render properly and match the snapshot 1`] = `
         >
           <img
             alt=""
-            class="sc-ftvSup ePeZbz"
+            class="sc-ftvSup gJHaXE"
             src="webpack.svg"
           />
         </li>

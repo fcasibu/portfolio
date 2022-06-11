@@ -12,6 +12,10 @@ export const ProjectsWrapper = styled.div`
 export const ProjectsTitle = styled.h2`
   margin-bottom: 1rem;
   text-align: left;
+
+  @media (max-width: 850px) {
+    text-align: center;
+  }
 `;
 
 export const StyledProjectsList = styled.div`
@@ -21,15 +25,16 @@ export const StyledProjectsList = styled.div`
   grid-row-gap: 2rem;
   justify-content: center;
 
-  @media (max-width: 640px) {
+  @media (max-width: 850px) {
     grid-template-columns: 1fr;
+    place-items: center;
   }
 `;
 
 export const StyledProjectCard = styled.div<{ isVisible: boolean }>`
   position: relative;
-  width: 250px;
-  height: 280px;
+  width: 350px;
+  height: 350px;
   display: flex;
   flex-direction: column;
   gap: 1rem;
@@ -39,12 +44,11 @@ export const StyledProjectCard = styled.div<{ isVisible: boolean }>`
   transition: all 600ms ease-in-out;
   will-change: opacity, visibility;
 
-  @media (max-width: 640px) {
-    width: 350px;
-    height: 330px;
+  @media (max-width: 850px) {
+    width: 450px;
+    height: 360px;
   }
-
-  @media (max-width: 375px) {
+  @media (max-width: 470px) {
     width: 100%;
   }
 `;
@@ -53,22 +57,28 @@ export const ProjectDescription = styled.p`
   font-size: 0.9rem;
 `;
 
-export const ProjectImageWrapper = styled.div`
+export const ProjectImageWrapper = styled.div<{ title: string, imageURL: string }>`
   position: relative;
   cursor: pointer;
+  background: ${props => `url(${props.imageURL})`} no-repeat center center;
+  background-size: 100% 100%;
+  border-radius: 0.5rem;
+  height: 250px;
 
   &:after {
     content: '${(props) => props.title}';
     position: absolute;
     top: 0;
     display: grid;
-    place-items: center;
-    background: rgba(0, 0, 0, 0.3);
+    place-items: flex-end;
+    justify-content: center;
+    background: rgba(0, 0, 0, 0.4);
     color: white;
     font-size: 1.2rem;
     border-radius: 0.5rem;
     height: 100%;
     width: 100%;
+    padding-bottom: 1rem;
     opacity: 0;
     visibility: hidden;
     transition: opacity 100ms ease-in-out;
@@ -78,22 +88,17 @@ export const ProjectImageWrapper = styled.div`
     opacity: 1;
     visibility: visible;
   }
-
-  @media (max-width: 640px) {
-    width: 100%;
-  }
 `;
 
-export const ProjectImage = styled.img`
+/* export const ProjectImage = styled.img`
   height: 150px;
   width: 250px;
   border-radius: 0.5rem;
-
   @media (max-width: 640px) {
     width: 100%;
     height: 200px;
   }
-`;
+`; */
 
 export const StyledProjectLinks = styled.ul`
   position: absolute;
@@ -101,13 +106,11 @@ export const StyledProjectLinks = styled.ul`
   right: 0;
   display: flex;
   gap: 0.3rem;
-
   display: flex;
 
   > * {
     font-size: 1.5rem;
-
-    @media (max-width: 640px) {
+    @media (max-width: 850px) {
       font-size: 2rem;
     }
   }

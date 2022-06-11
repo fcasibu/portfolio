@@ -27,7 +27,7 @@ export const StyledAbout = styled.div`
   flex-direction: column;
   gap: 1rem;
   padding: 1rem 1.5rem;
-  width: 50vw;
+  width: 600px;
   animation: ${slideIn} 0.5s ease-in-out forwards;
 
   & > * {
@@ -37,7 +37,8 @@ export const StyledAbout = styled.div`
 
   @media (max-width: 700px) {
     width: 100%;
-    height: 90vh;
+    height: 450px;
+    gap: 0;
   }
 `;
 
@@ -51,6 +52,7 @@ export const StyledLanguagesAndTools = styled.div`
 export const AvatarWrapper = styled.div`
   display: flex;
   align-items: center;
+  margin-bottom: 0.3rem;
 
   @media (max-width: 700px) {
     flex-direction: column;
@@ -58,6 +60,6 @@ export const AvatarWrapper = styled.div`
 `;
 
 export const Avatar = styled.img`
-  max-width: 125px;
-  max-height: 125px;
+  max-width: 100px;
+  max-height: 100px;
 `;

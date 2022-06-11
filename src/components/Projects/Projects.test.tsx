@@ -21,17 +21,17 @@ describe('Projects', () => {
   });
 
   it('should render ProjectCard properly', () => {
-    render(<ProjectCard data={projects[0]} />);
+    render(<ProjectCard data={projects[4]} />);
 
     const description = screen.getByText(
-      /single player battleship game, where the player and computer battles out who sinks the most ships first/i
+      /Battleship. A single player game where the player and computer battles out who sinks the most ships first/i
     );
 
     expect(description).toBeInTheDocument();
   });
 
   it('a tags should have the correct link', () => {
-    render(<ProjectCard data={projects[0]} />);
+    render(<ProjectCard data={projects[4]} />);
 
     const links = screen.getAllByRole('link') as HTMLLinkElement[];
 

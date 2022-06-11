@@ -3,7 +3,7 @@
 exports[`Header should render and match the snapshot 1`] = `
 <div>
   <header
-    class="sc-bczRLJ hmKztP"
+    class="sc-bczRLJ fgiDBK"
   >
     <nav
       class="sc-gsnTZi cwkucC"

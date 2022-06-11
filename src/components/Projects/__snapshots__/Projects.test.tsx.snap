@@ -6,188 +6,58 @@ exports[`Projects should render and match the snapshot 1`] = `
     class="sc-bczRLJ bZmHnT"
   >
     <h2
-      class="sc-gsnTZi gZLFFb"
+      class="sc-gsnTZi ldeTQb"
     >
       Projects
     </h2>
     <div
-      class="sc-dkzDqf cNHQkR"
+      class="sc-dkzDqf elbZFq"
     >
       <div
-        class="sc-hKMtZM wgLOy"
+        class="sc-hKMtZM bZBpdu"
       >
         <div
-          class="sc-jSMfEi eNckjs"
-          title="Battleship"
-        >
-          <img
-            class="sc-gKXOVf fmLhIk"
-            src="battleship.png"
-          />
-        </div>
-        <p
-          class="sc-eCYdqJ hNHXnO"
-        >
-          Single player battleship game, where the player and computer battles out who sinks the most ships first
-        </p>
-        <ul
-          class="sc-ftvSup fwQdZr"
-        >
-          <li
-            class="sc-papXJ"
-          >
-            <img
-              alt=""
-              class="sc-jqUVSM fvaYrv"
-              src="html.svg"
-            />
-          </li>
-          <li
-            class="sc-papXJ"
-          >
-            <img
-              alt=""
-              class="sc-jqUVSM fvaYrv"
-              src="css.svg"
-            />
-          </li>
-          <li
-            class="sc-papXJ"
-          >
-            <img
-              alt=""
-              class="sc-jqUVSM fvaYrv"
-              src="javascript.svg"
-            />
-          </li>
-          <li
-            class="sc-papXJ"
-          >
-            <img
-              alt=""
-              class="sc-jqUVSM fvaYrv"
-              src="jest.svg"
-            />
-          </li>
-          <li
-            class="sc-papXJ"
-          >
-            <img
-              alt=""
-              class="sc-jqUVSM fvaYrv"
-              src="webpack.svg"
-            />
-          </li>
-        </ul>
-        <ul
-          class="sc-iBkjds gIKFUO"
-        >
-          <li>
-            <a
-              href="https://nevz9.github.io/battleship/"
-              rel="noreferrer noopener"
-              target="_blank"
-            >
-              <svg
-                fill="none"
-                height="1em"
-                stroke="currentColor"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                stroke-width="2"
-                viewBox="0 0 24 24"
-                width="1em"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"
-                />
-                <circle
-                  cx="12"
-                  cy="12"
-                  r="3"
-                />
-              </svg>
-            </a>
-          </li>
-          <li>
-            <a
-              href="https://github.com/nevz9/battleship"
-              rel="noreferrer noopener"
-              target="_blank"
-            >
-              <svg
-                fill="none"
-                height="1em"
-                stroke="currentColor"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                stroke-width="2"
-                viewBox="0 0 24 24"
-                width="1em"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <polyline
-                  points="16 18 22 12 16 6"
-                />
-                <polyline
-                  points="8 6 2 12 8 18"
-                />
-              </svg>
-            </a>
-          </li>
-        </ul>
-      </div>
-      <div
-        class="sc-hKMtZM wgLOy"
-      >
-        <div
-          class="sc-jSMfEi XpJbA"
+          class="sc-jSMfEi gEiiJm"
           title="Fakegram"
-        >
-          <img
-            class="sc-gKXOVf fmLhIk"
-            src="fakegram.png"
-          />
-        </div>
+        />
         <p
           class="sc-eCYdqJ hNHXnO"
         >
-          Instagram clone, with features including posting, following, liking, authentication, etc
+          Instagram clone. Social media app with features including posting, following, liking, authentication, and more.
         </p>
         <ul
-          class="sc-ftvSup fwQdZr"
+          class="sc-iBkjds gTBOVg"
         >
           <li
-            class="sc-papXJ"
+            class="sc-ftvSup"
           >
             <img
               alt=""
-              class="sc-jqUVSM fvaYrv"
+              class="sc-papXJ dvteSJ"
               src="react.svg"
             />
           </li>
           <li
-            class="sc-papXJ"
+            class="sc-ftvSup"
           >
             <img
               alt=""
-              class="sc-jqUVSM fvaYrv"
+              class="sc-papXJ dvteSJ"
               src="firebase.svg"
             />
           </li>
           <li
-            class="sc-papXJ"
+            class="sc-ftvSup"
           >
             <img
               alt=""
-              class="sc-jqUVSM fvaYrv"
+              class="sc-papXJ dvteSJ"
               src="css.svg"
             />
           </li>
         </ul>
         <ul
-          class="sc-iBkjds gIKFUO"
+          class="sc-gKXOVf gZkPhn"
         >
           <li>
             <a
@@ -246,171 +116,50 @@ exports[`Projects should render and match the snapshot 1`] = `
         </ul>
       </div>
       <div
-        class="sc-hKMtZM wgLOy"
+        class="sc-hKMtZM bZBpdu"
       >
         <div
-          class="sc-jSMfEi bCobrj"
-          title="Photo Tagging Application"
-        >
-          <img
-            class="sc-gKXOVf fmLhIk"
-            src="photo-tagging.png"
-          />
-        </div>
-        <p
-          class="sc-eCYdqJ hNHXnO"
-        >
-          Photo Tagging Application. Three maps. Three Characters. Find all three as fast as you can!
-        </p>
-        <ul
-          class="sc-ftvSup fwQdZr"
-        >
-          <li
-            class="sc-papXJ"
-          >
-            <img
-              alt=""
-              class="sc-jqUVSM fvaYrv"
-              src="react.svg"
-            />
-          </li>
-          <li
-            class="sc-papXJ"
-          >
-            <img
-              alt=""
-              class="sc-jqUVSM fvaYrv"
-              src="firebase.svg"
-            />
-          </li>
-          <li
-            class="sc-papXJ"
-          >
-            <img
-              alt=""
-              class="sc-jqUVSM fvaYrv"
-              src="jest.svg"
-            />
-          </li>
-          <li
-            class="sc-papXJ"
-          >
-            <img
-              alt=""
-              class="sc-jqUVSM fvaYrv"
-              src="css.svg"
-            />
-          </li>
-        </ul>
-        <ul
-          class="sc-iBkjds gIKFUO"
-        >
-          <li>
-            <a
-              href="https://photo-tagging-app-852b2.web.app/#/"
-              rel="noreferrer noopener"
-              target="_blank"
-            >
-              <svg
-                fill="none"
-                height="1em"
-                stroke="currentColor"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                stroke-width="2"
-                viewBox="0 0 24 24"
-                width="1em"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"
-                />
-                <circle
-                  cx="12"
-                  cy="12"
-                  r="3"
-                />
-              </svg>
-            </a>
-          </li>
-          <li>
-            <a
-              href="https://github.com/nevz9/photo-tagging-app"
-              rel="noreferrer noopener"
-              target="_blank"
-            >
-              <svg
-                fill="none"
-                height="1em"
-                stroke="currentColor"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                stroke-width="2"
-                viewBox="0 0 24 24"
-                width="1em"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <polyline
-                  points="16 18 22 12 16 6"
-                />
-                <polyline
-                  points="8 6 2 12 8 18"
-                />
-              </svg>
-            </a>
-          </li>
-        </ul>
-      </div>
-      <div
-        class="sc-hKMtZM wgLOy"
-      >
-        <div
-          class="sc-jSMfEi hmZHtY"
+          class="sc-jSMfEi fwgCxb"
           title="Shopping Cart"
-        >
-          <img
-            class="sc-gKXOVf fmLhIk"
-            src="shopping-cart.png"
-          />
-        </div>
+        />
         <p
           class="sc-eCYdqJ hNHXnO"
         >
-          Shopping Cart. First time implementing React Router and imitating the logic of shoping and adding to a cart
+          Shopping Cart. Imitating how a shopping website works, working with multiple products and adding a product to a cart
         </p>
         <ul
-          class="sc-ftvSup fwQdZr"
+          class="sc-iBkjds gTBOVg"
         >
           <li
-            class="sc-papXJ"
+            class="sc-ftvSup"
           >
             <img
               alt=""
-              class="sc-jqUVSM fvaYrv"
+              class="sc-papXJ dvteSJ"
               src="react.svg"
             />
           </li>
           <li
-            class="sc-papXJ"
+            class="sc-ftvSup"
           >
             <img
               alt=""
-              class="sc-jqUVSM fvaYrv"
+              class="sc-papXJ dvteSJ"
               src="css.svg"
             />
           </li>
           <li
-            class="sc-papXJ"
+            class="sc-ftvSup"
           >
             <img
               alt=""
-              class="sc-jqUVSM fvaYrv"
+              class="sc-papXJ dvteSJ"
               src="jest.svg"
             />
           </li>
         </ul>
         <ul
-          class="sc-iBkjds gIKFUO"
+          class="sc-gKXOVf gZkPhn"
         >
           <li>
             <a
@@ -469,64 +218,170 @@ exports[`Projects should render and match the snapshot 1`] = `
         </ul>
       </div>
       <div
-        class="sc-hKMtZM wgLOy"
+        class="sc-hKMtZM bZBpdu"
       >
         <div
-          class="sc-jSMfEi dJMWvB"
-          title="Todo App"
-        >
-          <img
-            class="sc-gKXOVf fmLhIk"
-            src="todo.png"
-          />
-        </div>
+          class="sc-jSMfEi htkRll"
+          title="Photo Tagging Application"
+        />
         <p
           class="sc-eCYdqJ hNHXnO"
         >
-          Todo App. First big project to deal with CRUD operations and using local storage for data persistence
+          Photo Tagging Application. Three maps. Three Characters. Find all three as fast as you can!
         </p>
         <ul
-          class="sc-ftvSup fwQdZr"
+          class="sc-iBkjds gTBOVg"
         >
           <li
-            class="sc-papXJ"
+            class="sc-ftvSup"
           >
             <img
               alt=""
-              class="sc-jqUVSM fvaYrv"
+              class="sc-papXJ dvteSJ"
+              src="react.svg"
+            />
+          </li>
+          <li
+            class="sc-ftvSup"
+          >
+            <img
+              alt=""
+              class="sc-papXJ dvteSJ"
+              src="firebase.svg"
+            />
+          </li>
+          <li
+            class="sc-ftvSup"
+          >
+            <img
+              alt=""
+              class="sc-papXJ dvteSJ"
+              src="jest.svg"
+            />
+          </li>
+          <li
+            class="sc-ftvSup"
+          >
+            <img
+              alt=""
+              class="sc-papXJ dvteSJ"
+              src="css.svg"
+            />
+          </li>
+        </ul>
+        <ul
+          class="sc-gKXOVf gZkPhn"
+        >
+          <li>
+            <a
+              href="https://photo-tagging-app-852b2.web.app/#/"
+              rel="noreferrer noopener"
+              target="_blank"
+            >
+              <svg
+                fill="none"
+                height="1em"
+                stroke="currentColor"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                viewBox="0 0 24 24"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"
+                />
+                <circle
+                  cx="12"
+                  cy="12"
+                  r="3"
+                />
+              </svg>
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://github.com/nevz9/photo-tagging-app"
+              rel="noreferrer noopener"
+              target="_blank"
+            >
+              <svg
+                fill="none"
+                height="1em"
+                stroke="currentColor"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                viewBox="0 0 24 24"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <polyline
+                  points="16 18 22 12 16 6"
+                />
+                <polyline
+                  points="8 6 2 12 8 18"
+                />
+              </svg>
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div
+        class="sc-hKMtZM bZBpdu"
+      >
+        <div
+          class="sc-jSMfEi iUDyZL"
+          title="Todo App"
+        />
+        <p
+          class="sc-eCYdqJ hNHXnO"
+        >
+          Todo App. Be able to create, read, update, and delete your todos. Adding local storage for data persistence
+        </p>
+        <ul
+          class="sc-iBkjds gTBOVg"
+        >
+          <li
+            class="sc-ftvSup"
+          >
+            <img
+              alt=""
+              class="sc-papXJ dvteSJ"
               src="html.svg"
             />
           </li>
           <li
-            class="sc-papXJ"
+            class="sc-ftvSup"
           >
             <img
               alt=""
-              class="sc-jqUVSM fvaYrv"
+              class="sc-papXJ dvteSJ"
               src="css.svg"
             />
           </li>
           <li
-            class="sc-papXJ"
+            class="sc-ftvSup"
           >
             <img
               alt=""
-              class="sc-jqUVSM fvaYrv"
+              class="sc-papXJ dvteSJ"
               src="javascript.svg"
             />
           </li>
           <li
-            class="sc-papXJ"
+            class="sc-ftvSup"
           >
             <img
               alt=""
-              class="sc-jqUVSM fvaYrv"
+              class="sc-papXJ dvteSJ"
               src="webpack.svg"
             />
           </li>
         </ul>
         <ul
-          class="sc-iBkjds gIKFUO"
+          class="sc-gKXOVf gZkPhn"
         >
           <li>
             <a
@@ -585,64 +440,179 @@ exports[`Projects should render and match the snapshot 1`] = `
         </ul>
       </div>
       <div
-        class="sc-hKMtZM wgLOy"
+        class="sc-hKMtZM bZBpdu"
       >
         <div
-          class="sc-jSMfEi eOazwe"
-          title="Personal Portfolio"
-        >
-          <img
-            class="sc-gKXOVf fmLhIk"
-            src="portfolio.png"
-          />
-        </div>
+          class="sc-jSMfEi hREJYi"
+          title="Battleship"
+        />
         <p
           class="sc-eCYdqJ hNHXnO"
         >
-          Personal Portfolio. Using styled components and typescript for the first time
+          Battleship. A single player game where the player and computer battles out who sinks the most ships first
         </p>
         <ul
-          class="sc-ftvSup fwQdZr"
+          class="sc-iBkjds gTBOVg"
         >
           <li
-            class="sc-papXJ"
+            class="sc-ftvSup"
           >
             <img
               alt=""
-              class="sc-jqUVSM fvaYrv"
+              class="sc-papXJ dvteSJ"
+              src="html.svg"
+            />
+          </li>
+          <li
+            class="sc-ftvSup"
+          >
+            <img
+              alt=""
+              class="sc-papXJ dvteSJ"
+              src="css.svg"
+            />
+          </li>
+          <li
+            class="sc-ftvSup"
+          >
+            <img
+              alt=""
+              class="sc-papXJ dvteSJ"
+              src="javascript.svg"
+            />
+          </li>
+          <li
+            class="sc-ftvSup"
+          >
+            <img
+              alt=""
+              class="sc-papXJ dvteSJ"
+              src="jest.svg"
+            />
+          </li>
+          <li
+            class="sc-ftvSup"
+          >
+            <img
+              alt=""
+              class="sc-papXJ dvteSJ"
+              src="webpack.svg"
+            />
+          </li>
+        </ul>
+        <ul
+          class="sc-gKXOVf gZkPhn"
+        >
+          <li>
+            <a
+              href="https://nevz9.github.io/battleship/"
+              rel="noreferrer noopener"
+              target="_blank"
+            >
+              <svg
+                fill="none"
+                height="1em"
+                stroke="currentColor"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                viewBox="0 0 24 24"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"
+                />
+                <circle
+                  cx="12"
+                  cy="12"
+                  r="3"
+                />
+              </svg>
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://github.com/nevz9/battleship"
+              rel="noreferrer noopener"
+              target="_blank"
+            >
+              <svg
+                fill="none"
+                height="1em"
+                stroke="currentColor"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                viewBox="0 0 24 24"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <polyline
+                  points="16 18 22 12 16 6"
+                />
+                <polyline
+                  points="8 6 2 12 8 18"
+                />
+              </svg>
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div
+        class="sc-hKMtZM bZBpdu"
+      >
+        <div
+          class="sc-jSMfEi iAFIcW"
+          title="Personal Portfolio"
+        />
+        <p
+          class="sc-eCYdqJ hNHXnO"
+        >
+          Personal Portfolio. The site that you are seeing right now, see how I made it using TypeScript, React, and Styled Components
+        </p>
+        <ul
+          class="sc-iBkjds gTBOVg"
+        >
+          <li
+            class="sc-ftvSup"
+          >
+            <img
+              alt=""
+              class="sc-papXJ dvteSJ"
               src="react.svg"
             />
           </li>
           <li
-            class="sc-papXJ"
+            class="sc-ftvSup"
           >
             <img
               alt=""
-              class="sc-jqUVSM fvaYrv"
+              class="sc-papXJ dvteSJ"
               src="typescript.svg"
             />
           </li>
           <li
-            class="sc-papXJ"
+            class="sc-ftvSup"
           >
             <img
               alt=""
-              class="sc-jqUVSM fvaYrv"
+              class="sc-papXJ dvteSJ"
               src="styled.svg"
             />
           </li>
           <li
-            class="sc-papXJ"
+            class="sc-ftvSup"
           >
             <img
               alt=""
-              class="sc-jqUVSM fvaYrv"
+              class="sc-papXJ dvteSJ"
               src="jest.svg"
             />
           </li>
         </ul>
         <ul
-          class="sc-iBkjds gIKFUO"
+          class="sc-gKXOVf gZkPhn"
         >
           <li>
             <a

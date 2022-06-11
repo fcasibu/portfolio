@@ -3,11 +3,11 @@ import styled from 'styled-components';
 export const StyledHeader = styled.header`
   position: sticky;
   top: 0;
+  background: var(--theme-background);
   width: 100%;
-  max-width: 700px;
+  max-width: 850px;
   margin: 0 auto;
   padding: 1rem;
-  backdrop-filter: blur(8px);
   z-index: 10;
 `;
 

@@ -13,8 +13,8 @@ export const IconImage = styled.img<{ size: 'small' | 'medium' }>`
   width: ${(props) => (props.size === 'small' ? '25px' : '35px')};
   height: ${(props) => (props.size === 'small' ? '25px' : '35px')};
 
-  @media (max-width: 640px) {
-    width: ${(props) => (props.size === 'small' ? '35px' : '45px')};
-    height: ${(props) => (props.size === 'small' ? '35px' : '45px')};
+  @media (max-width: 850px) {
+    width: ${(props) => (props.size === 'small' ? '30px' : '45px')};
+    height: ${(props) => (props.size === 'small' ? '30px' : '45px')};
   }
 `;

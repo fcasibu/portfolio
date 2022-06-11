@@ -7,9 +7,14 @@ export const ModalWrapper = styled.div`
   transform: translate(-50%, -50%);
   display: flex;
   color: var(--theme-text-color);
-  width: 90vw;
-  height: 95vh;
+  width: 800px;
+  height: 450px;
   z-index: 100;
+
+  @media (max-width: 840px) {
+    width: 90%;
+  }
+
 `;
 
 export const Backdrop = styled.div`

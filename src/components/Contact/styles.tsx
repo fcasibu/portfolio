@@ -27,18 +27,18 @@ export const StyledContact = styled.div`
   gap: 1.2rem;
   background: var(--theme-background-secondary);
   padding: 1rem 1.5rem;
-  width: 50vw;
+  width: 600px;
   animation: ${slideIn} 0.5s ease-in-out forwards;
 
   & > * {
     opacity: 0;
     animation: ${fadeIn} 1.2s ease-in-out forwards 0.8s;
   }
-
-  @media (max-width: 700px) {
+@media (max-width: 700px) {
     width: 100%;
-    height: 90vh;
+    height: 450px;
   }
+
 `;
 
 export const StyledForm = styled.form`
