@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Contact should render and match the snapshot 1`] = `
+<div>
+  <div
+    class="sc-hKMtZM dZQmTc"
+  >
+    <h2
+      class="sc-gsnTZi fWNryp"
+    >
+      Contact Me
+    </h2>
+    <p
+      class="sc-bczRLJ iGcDty"
+    >
+      I’m very interested in working with projects. If you have any questions or want to work together, don’t hesitate to contact me using the form below. I will get back to you as soon as possible.
+    </p>
+    <form
+      class="sc-eCYdqJ ccCzcK"
+    >
+      <div
+        class="sc-jSMfEi fgdzB"
+      >
+        <input
+          class="sc-gKXOVf eMtpPN"
+          name="name"
+          placeholder="Name"
+          required=""
+          type="text"
+          value=""
+        />
+        <input
+          class="sc-gKXOVf eMtpPN"
+          name="email"
+          placeholder="Email"
+          required=""
+          type="email"
+          value=""
+        />
+      </div>
+      <textarea
+        class="sc-iBkjds ePFwPY"
+        name="message"
+        placeholder="Message"
+        required=""
+      />
+      <button
+        class="sc-dkzDqf epFtDs"
+        type="submit"
+      >
+        Submit
+      </button>
+    </form>
+  </div>
+</div>
+`;

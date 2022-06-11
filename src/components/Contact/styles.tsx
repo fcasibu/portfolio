@@ -22,13 +22,57 @@ const fadeIn = keyframes`
 `;
 
 export const StyledContact = styled.div`
-  background: var(--theme-text-color);
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+  background: var(--theme-background-secondary);
   padding: 1rem 1.5rem;
   width: 50vw;
-  animation: ${slideIn} 0.7s ease-in-out forwards;
+  animation: ${slideIn} 0.5s ease-in-out forwards;
 
   & > * {
     opacity: 0;
     animation: ${fadeIn} 1.2s ease-in-out forwards 0.8s;
   }
+
+  @media (max-width: 700px) {
+    width: 100%;
+    height: 90vh;
+  }
+`;
+
+export const StyledForm = styled.form`
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  width: 100%;
+
+  > button {
+    align-self: flex-end;
+  }
+`;
+
+export const Wrapper = styled.div`
+  display: flex;
+  gap: 1rem;
+`;
+
+export const Input = styled.input`
+  background: var(--theme-background-tertiary);
+  color: var(--theme-text-color);
+  border: 0;
+  outline: 0;
+  width: 100%;
+  padding: 0.3rem;
+`;
+
+export const TextArea = styled.textarea`
+  background: var(--theme-background-tertiary);
+  color: var(--theme-text-color);
+  border: 0;
+  outline: 0;
+  width: 100%;
+  height: 150px;
+  padding: 0.3rem;
+  resize: none;
 `;
