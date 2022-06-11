@@ -2,8 +2,6 @@
 <h1 align="center">Personal Portfolio</h1>
 
   <p align="center">
-  <br/>
-    <br />
     <a href="https://franciscasibu.codes/">Live Preview</a>
   </p>
 </div>
