@@ -1,30 +1,29 @@
 export const projects = [
-  {
-    title: 'Battleship',
-    description:
-      'Single player battleship game, where the player and computer battles out who sinks the most ships first',
-    repo: 'https://github.com/nevz9/battleship',
-    live: 'https://nevz9.github.io/battleship/',
-    image: require('../assets/battleship.png'),
-    technologies: [
-      require('../assets/html.svg'),
-      require('../assets/css.svg'),
-      require('../assets/javascript.svg'),
-      require('../assets/jest.svg'),
-      require('../assets/webpack.svg')
-    ]
-  },
+
   {
     title: 'Fakegram',
     description:
-      'Instagram clone, with features including posting, following, liking, authentication, etc',
+      'Instagram clone. Social media app with features including posting, following, liking, authentication, and more.',
     repo: 'https://github.com/nevz9/fakegram-react',
     live: 'https://nevz9.github.io/fakegram-react/',
-    image: require('../assets/fakegram.png'),
+    image: require('../assets/instagram.png'),
     technologies: [
       require('../assets/react.svg'),
       require('../assets/firebase.svg'),
       require('../assets/css.svg')
+    ]
+  },
+  {
+    title: 'Shopping Cart',
+    description:
+      'Shopping Cart. Imitating how a shopping website works, working with multiple products and adding a product to a cart',
+    repo: 'https://github.com/nevz9/shopping-cart',
+    live: 'https://nevz9.github.io/shopping-cart/',
+    image: require('../assets/shopping-cart.png'),
+    technologies: [
+      require('../assets/react.svg'),
+      require('../assets/css.svg'),
+      require('../assets/jest.svg')
     ]
   },
   {
@@ -42,22 +41,9 @@ export const projects = [
     ]
   },
   {
-    title: 'Shopping Cart',
-    description:
-      'Shopping Cart. First time implementing React Router and imitating the logic of shoping and adding to a cart',
-    repo: 'https://github.com/nevz9/shopping-cart',
-    live: 'https://nevz9.github.io/shopping-cart/',
-    image: require('../assets/shopping-cart.png'),
-    technologies: [
-      require('../assets/react.svg'),
-      require('../assets/css.svg'),
-      require('../assets/jest.svg')
-    ]
-  },
-  {
     title: 'Todo App',
     description:
-      'Todo App. First big project to deal with CRUD operations and using local storage for data persistence',
+      'Todo App. Be able to create, read, update, and delete your todos. Adding local storage for data persistence',
     repo: 'https://github.com/nevz9/todo-list',
     live: 'https://nevz9.github.io/todo-list/',
     image: require('../assets/todo.png'),
@@ -69,8 +55,23 @@ export const projects = [
     ]
   },
   {
+    title: 'Battleship',
+    description:
+      'Battleship. A single player game where the player and computer battles out who sinks the most ships first',
+    repo: 'https://github.com/nevz9/battleship',
+    live: 'https://nevz9.github.io/battleship/',
+    image: require('../assets/battleship.png'),
+    technologies: [
+      require('../assets/html.svg'),
+      require('../assets/css.svg'),
+      require('../assets/javascript.svg'),
+      require('../assets/jest.svg'),
+      require('../assets/webpack.svg')
+    ]
+  },
+  {
     title: 'Personal Portfolio',
-    description: 'Personal Portfolio. Using styled components and typescript for the first time',
+    description: 'Personal Portfolio. The site that you are seeing right now, see how I made it using TypeScript, React, and Styled Components',
     repo: 'https://github.com/nevz9/portfolio/',
     live: 'https://franciscasibu.codes/',
     image: require('../assets/portfolio.png'),
