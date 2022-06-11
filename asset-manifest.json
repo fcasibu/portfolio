@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.8eb20739.css",
-    "main.js": "/static/js/main.3a0a3922.js",
-    "static/js/499.0d18b7bc.chunk.js": "/static/js/499.0d18b7bc.chunk.js",
+    "main.js": "/static/js/main.e74c2302.js",
+    "static/js/499.35f8d148.chunk.js": "/static/js/499.35f8d148.chunk.js",
     "static/media/photo-tagging.png": "/static/media/photo-tagging.a913b705715ee363ba3c.png",
     "static/media/shopping-cart.png": "/static/media/shopping-cart.b5fa2ed5b4da22824385.png",
-    "static/media/fakegram.png": "/static/media/fakegram.1cb15ee67ee7e4b2f7bf.png",
-    "static/media/todo.png": "/static/media/todo.58a51a999df258b1922b.png",
-    "static/media/battleship.png": "/static/media/battleship.92937d91957736735e3f.png",
+    "static/media/instagram.png": "/static/media/instagram.f8955b1d8aa63beda1b5.png",
+    "static/media/todo.png": "/static/media/todo.eb11bf90dca12b6772b5.png",
     "static/media/portfolio.png": "/static/media/portfolio.0b11b37e7e471569616d.png",
     "static/media/avatar-default-icon.png": "/static/media/avatar-default-icon.3d77e961c2eed7ee0b36.png",
+    "static/media/battleship.png": "/static/media/battleship.be0c5fc6a5bdd8d1f43a.png",
     "static/media/firebase.svg": "/static/media/firebase.7765dfa84fc7de53bebbfdd8a4c9e59d.svg",
     "static/media/styled.svg": "/static/media/styled.f66de968a24f8f8f303632c39ef57014.svg",
     "static/media/jest.svg": "/static/media/jest.6d3e76338397932f41184c1ba7771ab9.svg",
@@ -24,11 +24,11 @@
     "static/media/css.svg": "/static/media/css.5fcd7f5683afc0fc6d0186a083262016.svg",
     "static/media/html.svg": "/static/media/html.ca0db580ffd74f086f2dc2a71dacd660.svg",
     "main.8eb20739.css.map": "/static/css/main.8eb20739.css.map",
-    "main.3a0a3922.js.map": "/static/js/main.3a0a3922.js.map",
-    "499.0d18b7bc.chunk.js.map": "/static/js/499.0d18b7bc.chunk.js.map"
+    "main.e74c2302.js.map": "/static/js/main.e74c2302.js.map",
+    "499.35f8d148.chunk.js.map": "/static/js/499.35f8d148.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8eb20739.css",
-    "static/js/main.3a0a3922.js"
+    "static/js/main.e74c2302.js"
   ]
 }
