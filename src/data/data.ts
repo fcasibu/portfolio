@@ -4,7 +4,7 @@ export const aboutData = {
   info1:
     'Hello there! I am Francis Eugene Casibu, a full stack web developer based in the Philippines. An undergrad studying Information Technology. I have a passion for developing web applications, and fully committed to lifelong learning.',
   info2:
-    'I started my Web Development journey on January 8, 2022 and have been going strong ever since. When I am off coding, I enjoy reading light novels, working out, playing basketball, and helping other learners achieve their goals in The Odin Project discord',
+    'I started my Web Development journey on January 8, 2022 and have been going strong ever since. When I am off coding, I enjoy reading light novels, working out, playing basketball, and helping other learners achieve their goals in The Odin Project discord.',
   ltIcons: [
     require('../assets/html.svg'),
     require('../assets/css.svg'),

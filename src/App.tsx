@@ -5,8 +5,9 @@ import { FiCode } from 'react-icons/fi';
 import { useModal } from './hooks/useModal';
 import Header from './components/Header';
 import Showcase from './components/Showcase';
-import Projects from './components/Projects';
 import AboutModal from './components/AboutModal';
+
+const Projects = React.lazy(() => import('./components/Projects'));
 
 const Wrapper = styled.div`
   width: 100%;

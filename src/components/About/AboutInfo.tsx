@@ -1,4 +1,5 @@
-import { AboutPara, Avatar, AvatarWrapper, StyledAboutInfo } from './styles';
+import { Para } from '../Para';
+import { Avatar, AvatarWrapper, StyledAboutInfo } from './styles';
 
 interface Props {
   info1: string;
@@ -11,9 +12,9 @@ export const AboutInfo = ({ info1, info2, avatar }: Props) => {
     <StyledAboutInfo>
       <AvatarWrapper>
         <Avatar src={avatar} alt="" />
-        <AboutPara>{info1}</AboutPara>
+        <Para>{info1}</Para>
       </AvatarWrapper>
-      <AboutPara>{info2}</AboutPara>
+      <Para>{info2}</Para>
     </StyledAboutInfo>
   );
 };
