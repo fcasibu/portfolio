@@ -7,7 +7,7 @@ export const ModalWrapper = styled.div`
   transform: translate(-50%, -50%);
   display: flex;
   color: var(--theme-text-color);
-  width: 95vw;
+  width: 90vw;
   height: 95vh;
   z-index: 100;
 `;
@@ -19,5 +19,5 @@ export const Backdrop = styled.div`
   min-height: 100vh;
   width: 100%;
   background: rgba(0, 0, 0, 0.4);
-  z-index: 10;
+  z-index: 100;
 `;
