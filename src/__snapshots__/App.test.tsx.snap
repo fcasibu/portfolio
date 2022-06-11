@@ -106,7 +106,7 @@ exports[`App should render the whole app and match te snapshot 1`] = `
     </nav>
   </header>
   <div
-    class="sc-llJcti gYJzCN"
+    class="sc-iIPllB hfFutL"
   >
     <div
       class="sc-iBkjds ekFYN"
@@ -829,7 +829,7 @@ exports[`App should render the whole app and match te snapshot 1`] = `
     </div>
   </div>
   <a
-    class="sc-iIPllB hSLeFG"
+    class="sc-gicCDI gpGgoL"
     href="https://github.com/nevz9/portfolio/"
     rel="noreferrer noopener"
     target="_blank"

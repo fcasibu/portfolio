@@ -42,11 +42,7 @@ function App() {
       <div ref={aboutRef}></div>
       <Header scrollToProjects={scrollToProjects} open={open} />
       {isOpen && (
-        <AboutModal
-          backdropRef={backdropRef.current}
-          aboutRef={aboutRef.current}
-          close={close}
-        />
+        <AboutModal backdropRef={backdropRef.current} aboutRef={aboutRef.current} close={close} />
       )}
       <Wrapper>
         <Showcase scrollToProjects={scrollToProjects} />

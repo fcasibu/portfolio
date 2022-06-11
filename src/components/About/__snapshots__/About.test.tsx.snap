@@ -3,7 +3,7 @@
 exports[`About Me should render properly and match the snapshot 1`] = `
 <div>
   <div
-    class="sc-bczRLJ eKmATL"
+    class="sc-bczRLJ glhTMT"
   >
     <h2
       class="sc-hKMtZM djkVFZ"
@@ -30,7 +30,7 @@ exports[`About Me should render properly and match the snapshot 1`] = `
       <p
         class="sc-gKXOVf fbbGVl"
       >
-        I started my Web Development journey on January 8, 2022 and has been going strong ever since. I enjoy reading light novels, working out, and having fun playing basketball when I am off coding
+        I started my Web Development journey on January 8, 2022 and has been going strong ever since. When I am off coding, I enjoy reading light novels, working out, playing basketball, and helping other learners achieve their goal in The Odin Project discord
       </p>
     </div>
     <h2
