@@ -3,7 +3,7 @@ export const projects = [
   {
     title: 'Fakegram',
     description:
-      'Instagram clone. Social media app with features including posting, following, liking, authentication, and more.',
+      'Instagram clone. Social media app with features including posting, following, liking, authentication, and more. Open to public, there is a possibility of NSFW',
     repo: 'https://github.com/nevz9/fakegram-react',
     live: 'https://nevz9.github.io/fakegram-react/',
     image: require('../assets/instagram.png'),
@@ -57,7 +57,7 @@ export const projects = [
   {
     title: 'Battleship',
     description:
-      'Battleship. A single player game where the player and computer battles out who sinks the most ships first',
+      'Battleship. A single player game where the player and computer battles out who sinks the most ships first. Only works in desktop right now',
     repo: 'https://github.com/nevz9/battleship',
     live: 'https://nevz9.github.io/battleship/',
     image: require('../assets/battleship.png'),
