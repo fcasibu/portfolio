@@ -16,8 +16,9 @@ exports[`Projects should render and match the snapshot 1`] = `
       <div
         class="sc-hKMtZM czAxNN"
       >
-        <div
-          class="sc-jSMfEi kwMwnU"
+        <a
+          class="sc-jSMfEi iNCjNm"
+          href="https://nevz9.github.io/fakegram-react/"
           title="Fakegram"
         />
         <p
@@ -118,8 +119,9 @@ exports[`Projects should render and match the snapshot 1`] = `
       <div
         class="sc-hKMtZM czAxNN"
       >
-        <div
-          class="sc-jSMfEi jZoeZB"
+        <a
+          class="sc-jSMfEi jTeYHz"
+          href="https://nevz9.github.io/shopping-cart/"
           title="Shopping Cart"
         />
         <p
@@ -220,8 +222,9 @@ exports[`Projects should render and match the snapshot 1`] = `
       <div
         class="sc-hKMtZM czAxNN"
       >
-        <div
-          class="sc-jSMfEi dqNbHP"
+        <a
+          class="sc-jSMfEi yGFJl"
+          href="https://photo-tagging-app-852b2.web.app/#/"
           title="Photo Tagging Application"
         />
         <p
@@ -331,8 +334,9 @@ exports[`Projects should render and match the snapshot 1`] = `
       <div
         class="sc-hKMtZM czAxNN"
       >
-        <div
-          class="sc-jSMfEi eOzrlp"
+        <a
+          class="sc-jSMfEi kZrQWb"
+          href="https://nevz9.github.io/todo-list/"
           title="Todo App"
         />
         <p
@@ -442,8 +446,9 @@ exports[`Projects should render and match the snapshot 1`] = `
       <div
         class="sc-hKMtZM czAxNN"
       >
-        <div
-          class="sc-jSMfEi ldYzik"
+        <a
+          class="sc-jSMfEi hiUXtu"
+          href="https://nevz9.github.io/battleship/"
           title="Battleship"
         />
         <p
@@ -562,8 +567,9 @@ exports[`Projects should render and match the snapshot 1`] = `
       <div
         class="sc-hKMtZM czAxNN"
       >
-        <div
-          class="sc-jSMfEi bBfWaI"
+        <a
+          class="sc-jSMfEi gZrSCO"
+          href="https://franciscasibu.codes/"
           title="Personal Portfolio"
         />
         <p

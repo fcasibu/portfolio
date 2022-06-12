@@ -57,12 +57,13 @@ export const ProjectDescription = styled.p`
   font-size: 0.9rem;
 `;
 
-export const ProjectImageWrapper = styled.div<{ title: string, imageURL: string }>`
+export const ProjectImage = styled.a<{ title: string, imageURL: string }>`
   position: relative;
   background: ${props => `url(${props.imageURL})`} no-repeat center center;
   background-size: 100% 100%;
   border-radius: 0.5rem;
   height: 250px;
+  cursor: pointer;
 
   &:after {
     content: '${(props) => props.title}';

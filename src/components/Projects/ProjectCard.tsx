@@ -1,7 +1,7 @@
 import * as React from 'react';
 import Icons from '../Icons';
 import { ProjectLinks } from './ProjectLinks';
-import { ProjectDescription, ProjectImageWrapper, StyledProjectCard } from './styles';
+import { ProjectDescription, ProjectImage, StyledProjectCard } from './styles';
 
 interface Data {
   title: string;
@@ -30,8 +30,8 @@ export const ProjectCard = ({ data }: Props) => {
 
   return (
     <StyledProjectCard ref={cardRef} isVisible={isVisible}>
-      <ProjectImageWrapper title={data.title} imageURL={data.image}>
-      </ProjectImageWrapper>
+      <ProjectImage href={data.live} title={data.title} imageURL={data.image}>
+      </ProjectImage>
       <ProjectDescription>{data.description}</ProjectDescription>
       <Icons icons={data.technologies} size="small" state="absolute" />
       <ProjectLinks repo={data.repo} live={data.live} />

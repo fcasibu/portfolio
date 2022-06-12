@@ -35,7 +35,8 @@ describe('Projects', () => {
 
     const links = screen.getAllByRole('link') as HTMLLinkElement[];
 
-    expect(links[0].href).toEqual('https://nevz9.github.io/battleship/');
-    expect(links[1].href).toEqual('https://github.com/nevz9/battleship');
+    expect(links[0].href).toEqual('https://nevz9.github.io/battleship/')
+    expect(links[1].href).toEqual('https://nevz9.github.io/battleship/');
+    expect(links[2].href).toEqual('https://github.com/nevz9/battleship');
   });
 });
