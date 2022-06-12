@@ -59,7 +59,6 @@ export const ProjectDescription = styled.p`
 
 export const ProjectImageWrapper = styled.div<{ title: string, imageURL: string }>`
   position: relative;
-  cursor: pointer;
   background: ${props => `url(${props.imageURL})`} no-repeat center center;
   background-size: 100% 100%;
   border-radius: 0.5rem;
