@@ -34,7 +34,7 @@ export const StyledProjectsList = styled.div`
 export const StyledProjectCard = styled.div<{ isVisible: boolean }>`
   position: relative;
   width: 350px;
-  height: 350px;
+  height: 370px;
   display: flex;
   flex-direction: column;
   gap: 1rem;
@@ -46,7 +46,7 @@ export const StyledProjectCard = styled.div<{ isVisible: boolean }>`
 
   @media (max-width: 850px) {
     width: 450px;
-    height: 360px;
+    height: 370px;
   }
   @media (max-width: 470px) {
     width: 100%;
