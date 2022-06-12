@@ -6,7 +6,7 @@ exports[`About Me should render properly and match the snapshot 1`] = `
     class="sc-gsnTZi jojgMV"
   >
     <h2
-      class="sc-papXJ ldZqnn"
+      class="sc-papXJ iyNzwB"
     >
       About me
     </h2>
@@ -37,7 +37,7 @@ exports[`About Me should render properly and match the snapshot 1`] = `
       class="sc-hKMtZM cfGbOi"
     >
       <h2
-        class="sc-papXJ ldZqnn"
+        class="sc-papXJ iyNzwB"
       >
         Languages and Tools
       </h2>

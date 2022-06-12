@@ -14,16 +14,16 @@ exports[`Projects should render and match the snapshot 1`] = `
       class="sc-dkzDqf elbZFq"
     >
       <div
-        class="sc-hKMtZM bZBpdu"
+        class="sc-hKMtZM czAxNN"
       >
         <div
-          class="sc-jSMfEi gEiiJm"
+          class="sc-jSMfEi kwMwnU"
           title="Fakegram"
         />
         <p
           class="sc-eCYdqJ hNHXnO"
         >
-          Instagram clone. Social media app with features including posting, following, liking, authentication, and more.
+          Instagram clone. Social media app with features including posting, following, liking, authentication, and more. Open to public, there is a possibility of NSFW
         </p>
         <ul
           class="sc-iBkjds gTBOVg"
@@ -116,10 +116,10 @@ exports[`Projects should render and match the snapshot 1`] = `
         </ul>
       </div>
       <div
-        class="sc-hKMtZM bZBpdu"
+        class="sc-hKMtZM czAxNN"
       >
         <div
-          class="sc-jSMfEi fwgCxb"
+          class="sc-jSMfEi jZoeZB"
           title="Shopping Cart"
         />
         <p
@@ -218,10 +218,10 @@ exports[`Projects should render and match the snapshot 1`] = `
         </ul>
       </div>
       <div
-        class="sc-hKMtZM bZBpdu"
+        class="sc-hKMtZM czAxNN"
       >
         <div
-          class="sc-jSMfEi htkRll"
+          class="sc-jSMfEi dqNbHP"
           title="Photo Tagging Application"
         />
         <p
@@ -329,10 +329,10 @@ exports[`Projects should render and match the snapshot 1`] = `
         </ul>
       </div>
       <div
-        class="sc-hKMtZM bZBpdu"
+        class="sc-hKMtZM czAxNN"
       >
         <div
-          class="sc-jSMfEi iUDyZL"
+          class="sc-jSMfEi eOzrlp"
           title="Todo App"
         />
         <p
@@ -440,16 +440,16 @@ exports[`Projects should render and match the snapshot 1`] = `
         </ul>
       </div>
       <div
-        class="sc-hKMtZM bZBpdu"
+        class="sc-hKMtZM czAxNN"
       >
         <div
-          class="sc-jSMfEi hREJYi"
+          class="sc-jSMfEi ldYzik"
           title="Battleship"
         />
         <p
           class="sc-eCYdqJ hNHXnO"
         >
-          Battleship. A single player game where the player and computer battles out who sinks the most ships first
+          Battleship. A single player game where the player and computer battles out who sinks the most ships first. Only works in desktop right now
         </p>
         <ul
           class="sc-iBkjds gTBOVg"
@@ -560,10 +560,10 @@ exports[`Projects should render and match the snapshot 1`] = `
         </ul>
       </div>
       <div
-        class="sc-hKMtZM bZBpdu"
+        class="sc-hKMtZM czAxNN"
       >
         <div
-          class="sc-jSMfEi iAFIcW"
+          class="sc-jSMfEi bBfWaI"
           title="Personal Portfolio"
         />
         <p
